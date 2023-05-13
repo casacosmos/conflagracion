@@ -1,0 +1,1064 @@
+StoicNaturalPhilosophy(PhysicsandCosmology) 125
+of the rather technical aspects of Stoic physical doctrine. In partic-
+ular, the Stoic themes of the unity and cohesion of the cosmos and
+of an all-encompassing divine reason controlling the cosmos are of
+fundamentalimportancetoStoicphysics.
+2. what physics is
+DiogenesreportsthattheStoicsdividedtheirphysicaldoctrineinto
+topicspertainingtobodies,principles(archai),elements(stoicheia),
+gods,boundariesorlimits(perata),place,andvoid.This,hesays,was
+a‘specific’classificationofphysicaltopics.A‘generic’classification
+distinguished physical topics pertaining to the cosmos, those per-
+tainingtotheelements(stoicheiaagain),andthosepertainingtothe
+investigation of causes (aitiologia).3 It is thus clear that the Stoics
+conceived of physics or natural philosophy more broadly than one
+characterization of it by Aristotle – that is, the conceptual investi-
+gation of kineˆsis (motion or change) and of whatever is implied by
+change(e.g.,magnitude,place,andtime).4 Asamajorsubdivisionof
+philosophy, Stoic physics includes not only what later came to be
+called ‘natural philosophy’, but also cosmology and topics in ‘first
+philosophy’ormetaphysics.
+With respect to the former, ‘specific’ classificatory schema, the
+distinctionbetweenprinciplesandelementsmayinitiallyseempuz-
+zlingsince‘archai’and‘stoicheia’arenotinfrequentlyusedassyn-
+onyms–asinAristotle’sfrequentcharacterizationofthePresocratic
+philosophers’ quest for archai kai stoicheia and in the geometrical
+senseof‘elements’(stoicheia).ItiswidelyattestedthatthetwoStoic
+archai–whichwillbediscussedmorelater–wereanactiveprinciple
+(topoioun)identifiedwithreasonandgod(interalia),andapassive
+principle(topaschon)identifiedwithunqualifiedsubstance(apoios
+ousia)ormatter.Diogenesreportsthattheprincipaldistinctionthat
+3 DL VII 132. The import of the distinction between the ‘specific’ and ‘generic’
+classification is far from obvious. In Ch. 8 of this volume, Brunschwig suggests
+thatperhapsthespecificclassification‘considersphysicsasaself-containedeidos,
+whereasthe[genericclassification]considersitaspartofabroadergenos,’andthus
+envisionsthat‘someofthetopicsinthe‘generic’division,e.g.,cosmologyandaitiol-
+ogy,aresharedamongphysicsandotherdisciplines,likeastronomyandmedicine’.
+I certainly have not been able to come up with a more plausible account of the
+distinction.
+4 SeeAristotle,Phys.III4.202b30–1.126 michael j. white
+the Stoics drew between archai and stoicheia is that whereas the
+formerprinciplesareungeneratedandindestructible,thelatterele-
+ments–whichareidentifiedintermsofthetraditionalcategoriesof
+fire,water,air,andearth–aredestroyedintheworldconflagration
+or ekpuroˆsis.5 Principles, in common Stoic usage, are the more ba-
+sicontologicalconcepts,whereaselementsoccupyamorederivative
+cosmological(andcosmogonical)position.Butthereareanumberof
+problems, discussed in a later section, with respect to the relation
+betweenprinciplesandelements.
+TheStoicsalsorecognizedadistinctionbetweencosmologicalis-
+suesoflegitimateconcerntomathematicians;thatis,issuesofwhat
+might be termed mathematical astronomy on the one hand6 and
+cosmological issues properly investigated by physicists as such on
+the other: for example, what the ‘substance’ (ousia) of the cosmos
+is, whether the sun and stars are constituted of matter and form,
+whether or not the cosmos is generated, whether or not it is en-
+souled,whetherornotitisdestructible,andwhetheritisproviden-
+tially directed.7 A similar distinction between a mathematical and
+anon-mathematicalinvestigationofcausesisreportedbyDiogenes.
+Optics,catoptrics,andinvestigationofthecausesofclouds,thunder,
+rainbows,halos,andcometsareadducedasexamplesoftheformer.8
+Itisnotknownwhether‘mathematicalphysics’waspracticedamong
+the Stoic philosophers themselves earlier than Posidonius. We do
+have considerable evidence that Posidonius, in the first half of the
+first-centuryb.c.,wasinvolvedinanextraordinarilywidevarietyof
+scholarly,historical,andmathematicalandscientificpursuits.9
+That bodies, principles, elements, gods, place, and void should
+have been regarded as principal topics in Stoic physics is not sur-
+prising.Thesearealltopicshavingeitheraself-evidentimportance
+or a well-established pedigree in the natural philosophy of Greek
+5 DLVII134.
+6 SeeCh.13,Jones,thisvolume.
+7 DLVII132–133.
+8 DLVII133.
+9 Among many other accomplishments, Posidonius wrote a book in defense of
+Euclidean geometry against the attacks on geometry by the Epicurean Zeno of
+Sidon.WithrespecttoPosidonius’lostbookOnOcean,I.G.Kiddcommentsthat
+‘Posidonius’ book appears to have covered an astonishing span, not only in con-
+tentbutalsoinform,rangingfrommathematicaltheorytothevividnarrativeof
+Eudoxus’(Kidd[1988]vol.II(i),219–220).StoicNaturalPhilosophy(PhysicsandCosmology) 127
+antiquity(orboth).However,itisperhapssurprisingorevenpuzzling
+that perata (limits or boundaries) should be accorded such promi-
+nence. There is more discussion on this matter toward the end of
+thischapter.
+3. the role of prior commitments
+in stoic physics
+The Stoic themes of the unity and cohesion of the cosmos and
+of an all-encompassing divine reason controlling that cosmos may
+be regarded as the principal controlling ‘prior commitments’ of
+Stoic physics, to borrow a concept that Lang applies to Aristotle’s
+physics.10Thesethemesdomuch,inotherwords,toshapethetypes
+of issues and problems that Stoic physics takes to be important,
+as well as the substance of what the Stoics have to say about these
+issuesandproblems.Ofcourse,thisinfluenceisnotamatterofcom-
+pletely setting the agenda of Stoic physics. But a case can be made
+that prior commitments are even more important for Stoic physics
+thantheyareforthephysicsofAristotle.
+ForAristotle,notonlyhuman(sense)experienceintheformofta
+phainomena,butalsotaendoxa(how‘we’,themany,aswellasthe
+fewwiseonesamongus,thinkandtalkabouttheworldaroundus)
+exerciseanimportantregulativefunctioninnaturalphilosophy.The
+Stoics, however, apparently were much more ready to depart from
+customary modes of thought and speech. Critics from outside the
+school,suchasPlutarch,makemuchoftheviewsoftheStoicsthat
+contradict ‘common conceptions’. Cicero notes that certain Stoic
+doctrines, which he calls ‘admirabilia contraque opinionem om-
+nium’ (‘astonishing and contrary to the beliefs of all people’), are
+termed ‘paradoxa’ by the Stoics themselves.11 While the paradoxa
+discussedbyCiceroareethicalandepistemological,thereiscertainly
+evidence for a similar approach by the Stoics to physical topics –
+for example, Chrysippus’ claim, in connection with the doctrine
+of total blending (krasis di’ holoˆn), that a little wine thrown into
+the sea will interpenetrate with the whole sea.12 In fact, Plutarch’s
+spokesperson, Diadumenus in De communibus notitiis adversus
+10 Lang(1998),280etpassim.
+11 Cicero,ParadoxaStoicorum4.
+12 Plutarch,Comm.not.1078e.128 michael j. white
+Stoicos, emphasizes that the physical doctrines of the Stoics are
+fullyasmuchatoddswith‘commonconceptions’(koinaiproleˆpseis)
+as are their ethical doctrines.13 It is not clear that the Stoics, such
+as Chrysippus, who are Plutarch’s targets, would have agreed with
+thisassessment.However,acasecanbemadethatoneconsequence
+of the relative detachment by the Stoics of physical inquiry from
+common conceptions is the enlargement of the role of prior com-
+mitmentsinnaturalphilosophy.Moreover,anadditionalfactorthat
+couldheightentheinfluenceofpriorcommitmentsintheinvestiga-
+tionofnatureisthefactthat,fortheStoics,knowledgeofthenatural
+world is not sought as an end in itself, but rather as enabling us to
+liveinconformitywithnature.
+Followingisadiscussiononthisinfluencewithrespecttocertain
+keyfeaturesofStoicphysicaldoctrine.Thisiscertainlynottheonly
+waytoapproachStoicphysics.Nor,perhaps,isitthemostdiscrimi-
+natingapproach:somesubtletiesanddifficultiesareglossedover,as
+are some significant differences among the doctrines of individual
+Stoic philosophers. But it is hoped that the method is particularly
+usefulforabriefintroductoryandprotrepticdiscussionsuchasthe
+presentone.
+4. corporealism and vitalism
+Hahm begins the first chapter of his The Origins of Stoic Cosmol-
+ogy with the observation that ‘no idea is more deeply ingrained in
+Stoic philosophy than the conviction that everything real is corpo-
+real’.14 This seems quite correct, but two qualifications probably
+should be added. The first is that ‘everything real’ here designates
+whatexists(taonta).TheStoicshadawidercategoryof‘something’
+(ti)thatincluded,inadditiontowhatexists(bodies),incorporealsor
+‘subsistents’ (ta huphestoˆta) such as void, place, time, and what is
+‘sayable’(talekta:meanings).15 Thesecondqualificationisthatthe
+Stoic conception of the corporeality of the cosmos does not at all
+connote the corporeal world of inert matter of seventeenth- and
+eighteenth-century natural philosophy, aptly described by Randall
+as a world consisting solely of ‘solid, hard, massy particles, of
+13 Comm.not.1073d.
+14 Hahm(1977),3.
+15 SeeCh.8,Brunschwig,thisvolume.StoicNaturalPhilosophy(PhysicsandCosmology) 129
+substancesconnectedbymechanicalcausation.’16TheStoics,onthe
+contrary,followedtheprecedentofvariousPresocraticsandofPlato
+inholdingthatthe‘wholecosmosisalivingbeing(oranimal:zoˆion),
+ensouled and rational, having as its ruling principle (heˆgemonikon)
+aether [typically equated with fire by the Stoics]’.17 According to
+Chrysippus and Posidonius, ‘reason (nous) extends to every part of
+it, just as soul does with respect to us’.18 Also quite unremarkable
+is the Stoic doctrine that the cosmos is one, limited, and spheri-
+cal. Like Aristotle, they held that it contains no void. But they ad-
+ducedasthereasonforthisthe‘conspiration’or‘breathingtogether’
+(sumpnoia) and ‘tension’ (suntonia) binding together heavenly and
+terrestrialthings.19
+What is most remarkable about this ‘vitalism’ is that the Stoics
+evidentlyinsistedthattheactive,life-giving,rational,creative,and
+directiveprincipleofthecosmosisjustascorporealasisthepassive,
+‘material’ principle. According to the report of Aristocles (itself re-
+portedbyEusebius),ZenoofCitium(likeHeraclitus)heldthatfireis
+thestoicheionofeverything,and(likePlato)heheldthatthearchai
+of fire are matter and god; ‘but he [Zeno] says that both are bodies,
+theactiveandthepassiveprinciple,while[Plato]saysthatthefirst
+activecauseisimmaterial’.20Origenalsocommentsonthecorpore-
+alityofthe‘godoftheStoics’,attributingtotheStoicsthedoctrine
+that,duringtheperiodicconflagration(ekpuroˆsis)ofthecosmos,‘the
+ruling part [i.e., god] is the whole substance’, but during the inter-
+veningcosmiccycle(diakosmeˆsis)therulingpart‘existsinapartof
+it’.21 Origen here refers to the distinctive Stoic doctrine of cosmic
+cycles. According to Diogenes Laertius, god, ‘being the “demiurge”
+of the cosmic cycle, in certain periods of time consumes the whole
+substance [sc., of the cosmos] into himself and then again brings it
+forth from himself’.22 Thus, god as deˆmiourgos or craftsman is im-
+manentinthecosmosasitsactive,rational,andcorporealprinciple,
+and is particularly identified with the creative fire (pur technikon)
+16 Randall(1962),Vol.1,60.
+17 DLVII139.
+18 DLVII138.
+19 DLVII140.
+20 AristoclesapudEusebius,PraeparatioevangelicaXV=SVF1.98.
+21 Origen,ContraCelsumIV14=SVF2.1052.
+22 DLVII137.130 michael j. white
+from which the world cycle arises and into which it periodically
+returns.
+TheStoicconceptionoftheactiveprincipleofthecosmosascor-
+porealelicitedstrongobjectionsfromlaterphilosophers.According
+to one such objection, versions of which are found in Plutarch and
+Plotinus,theStoics’identificationofgodwith‘intellectualbody’or
+‘nousinmatter’makesgodintoacompositeofformandmatterand
+thus compromises the status of God as a simple first principle, or
+archeˆ.23 Thus,Plutarchconcludesthat
+if reason and matter are one and the same, [the Stoics] have not correctly
+defined matter as irrational. But if they are different, god would be a sort
+oftrusteeofbothandnotsimplebutacompositething–corporealityfrom
+matteraddedtorationality.24
+As Plotinus’ version of the argument makes clear, the underly-
+ing assumption is that ‘body comes to be from matter and form’.25
+However,thereislittlereasontobelievethattheStoicswouldhave
+accepted this presupposition.26 The common Stoic definitions of a
+body, ‘that which is extended in the three dimensions of length,
+breadth,anddepth’27and‘extensioninthreedimensionsalongwith
+resistance (antitupia)’,28 do not appear to imply hylomorphism in
+anything like the Aristotelian sense. In fact, the Stoics argued – in
+thewordsofHahm–that‘iftheconstituentmaterialofathingisa
+body,thethingitselfisabody’.29 Theyseemtohaveemployedthis
+principle to conclude that qualities of corporeal things are them-
+selvescorporeal.30
+23 Plutarch,Comm.not.1085b.
+24 Comm.not.1085c.
+25 Plotinus,EnneadesVI1.26.12.
+26 InthewordsofM.Lapidge,‘theinseparabilityoftheosandhuleˆisafeatureofStoic
+cosmologywhichcannotbetoostronglyemphasized:itisassertedbyAlexanderof
+Aphrodisias,Origen,Proclus,andSyrianus.Calcidiustooemphasizesthisfeature
+ofStoicmonismatlength’(Lapidge[1973],243–4).
+27 DLVII135.
+28 Galen,Quodqualitatesincorporeaesint10=SVF2.381.
+29 Hahm(1977),4.
+30 Thereissomeevidence(e.g.,SVF2.376and379)foraStoicdoctrineaccordingto
+whichaqualityis‘matterexistingorbeingdisposedinacertainway’(huleˆpoˆsec-
+housa).However,asBrunschwighasemphasizedtome,theformerpassage(from
+Plotinus)isquitepolemicalandthelatter(fromAlexanderofAphrodisias)isam-
+bivalentaboutwhethertheStoicdoctrineisthatqualityishuleˆ poˆsechousaoris
+thatqualityispneumapoˆsechon.AproblemhereisthatSimplicius(InAr.Cat.StoicNaturalPhilosophy(PhysicsandCosmology) 131
+Similarconsiderationsapplytoanargumentagainstanunending
+chain of movers attributed to the Stoics by Sextus Empiricus. The
+consequenceofthisargumentisthatthereisa‘powerthatis,initself,
+self-moving – which would be divine and eternal...So the power
+thatmovesmatterandimposesonit,inanorderlyway,generations
+andchangesiseternal.Consequently,itwouldbegod’.31 Notablein
+its absence is any hint of the Aristotelian claim that a self-moving
+movercannotbeanultimatemover.InthePhysicsAristotleargues
+that
+itisnecessary,therefore,thatwhatwhichmovesitselfconsistof(i)anun-
+movedmover,and(ii)whatismovedbutnotnecessarilyamover,bothof
+whichareincontacttheonewiththeother.32
+And in Metaphysics XII, he draws the conclusion that an argu-
+ment against an unending chain of movers has as a consequence
+that‘thereexistssomesubstancethatiseternal,unmoved,andsep-
+arate(kechoˆrismeneˆ)fromsensiblethings...Ithasbeenshownthat
+thissubstancecannothaveanymagnitudebut,rather,ispartlessand
+indivisible’.33
+FromtheStoicperspective,the‘kechoˆrismeneˆ’(‘separate’)would
+be especially crucial here. The Stoics surely would have resisted
+anyargumentforafirstmoverthatiskechoˆrismenonfromthecos-
+mos,justastheywouldhaveresistedtheargumentsbyPlutarchand
+Plotinus that would entail that god – or the form or heˆgemonikon
+of god – exists, in the words of Plotinus, as an ‘incorporeal creator’
+(topoieˆtikonasoˆmaton).34 Thereasonforthisresistanceliesinthe
+Stoicconvictionthatsomethingincorporealcannotactnorbeacted
+upon.CiceroreportsthatZenodeniedthat‘anythingcouldbeacted
+upon by that which is incorporeal – as Xenocrates and other older
+thinkers as well had said of the soul; rather, it is not at all possible
+66–67=SVF2.369)reportsaStoicschemaofcategoriesthatappearstodistinguish
+qualitiesfrompoˆsechonta(dispositions)andprostipoˆsechonta(relativedisposi-
+tions).Ontheotherhand,Simplicius(InAr.Cat.214=SVF2.391)alsoreportsthat
+theStoicsrefertoqualitiesas‘hekta’which,ofcourse,comesfromthesameverb
+(echein)asdoes‘disposition’or‘beingdisposedissuch-and-suchaway’(poˆsechon).
+Theprincipalpoint,Ibelieve,istherefusaloftheStoicstoadmitan‘ontological
+separation’betweenthecorporeal‘subject’ofaqualityandthe‘qualityitself’.
+31 S.E.,MIX76=SVF2.311.
+32 Aristotle,Phys.VIII5.258a18–21.
+33 Aristotle,Meta.XII7.1073a3–7.
+34 Plotinus,Enn.VI1.26.14–15.132 michael j. white
+for what is not body to act upon anything or to be acted upon’.35
+This stricture, in fact, becomes a common Stoic characterization
+of the corporeal, ‘that which either acts or is acted upon’, which
+Hahmrightlycharacterizesas‘themostimportant’Stoicaccountof
+body.36
+Althoughtheevidenceisbynomeansconclusive,itseemslikely
+thattheStoicshadtakentoheartPeripateticworriesaboutthecausal
+efficacyof‘separate’Platonicforms.ButanAristotelianincorporeal
+unmoved mover that is kechoˆrismenon from what it moves might
+well seem to generate a similar problem, particularly if Aristotle’s
+explanation, ‘[a final cause] moves as the object of desire but other
+thingsmovebybeingmoved’,37 isnotdeemedtoconstituteasatis-
+factoryaccountofthecausalactionofsomething.
+Thehistoryofnon-monisticontologies,suchasthedevelopment
+of various dualisms in the seventeenth and eighteenth centuries,
+records the difficulties of adequately explaining the interaction of
+two toto caelo different kinds of entity. In fact, developments such
+as Malebranche’s occasionalism suggest that such a dualism tends
+to issue not in a picture of a single world order, but rather that of
+multiplecoexistentworldordersmoreorlessdetachedfromonean-
+other.IfAristotleisthoughttohaveattemptedtounifytheseparate
+worldordersofPlatonicdualism,itiseasytointerprettheStoicsas
+beginning with the assumption that Aristotelianism had not gone
+farenoughinthisdirection.Hahmcommentsthat
+obviously, what the Stoics have done is . . . to distribute [Aristotle’s] four
+causesbetweentwoentities,assigningthematerialcausetooneentity[the
+passivearcheˆ],andmotive,formal,andfinalcausestotheother[theactive
+archeˆ].38
+Since the active principle is corporeal, the Stoic prior commit-
+ment to the unity and cohesion of the cosmos is preserved. There
+areno‘separate’principlesorcausestheconnectionofwhichtothe
+materialworldordermightproveproblematic.
+The causal efficacy of the active principle is certainly exercised
+locally,notmerelyby‘superficial’contactbutbyasortoftotalper-
+meationandpervasion.AccordingtoAlexanderofAphrodisias,the
+35 Cicero,Acad.I39.
+36 Hahm(1977),11.SeeBrunschwig,Ch.8,thisvolume.
+37 Aristotle,Meta.XII71072b3–4(translatingtheemendationofRoss).
+38 Hahm(1977),44.StoicNaturalPhilosophy(PhysicsandCosmology) 133
+Stoics say that ‘god is mixed with matter, permeating (diheˆkonta)
+through all of it, shaping and forming it, and in this way making
+thecosmos’.39 AndChrysippusisdescribedbyDiogenesLaertiusas
+holdingthat‘nouspermeates(diheˆkontos)througheverypartof[the
+cosmos], just as the soul does with respect to us, although more in
+someplacesandlessinothers’.40 Astheparadigmofcorporealcau-
+sation, then, the action of the active, productive principle is local
+and, in a sense, ‘by contact.’ But the contact is ‘contact through-
+out’ and is not the ‘mechanical’ efficient causation associated with
+seventeenth- and eighteenth-century conceptions of corporeal cau-
+sation: one billiard ball colliding with another or the intermeshing
+gears of a clock. A biological rather than a mechanical picture of
+corporeal causation is a more appropriate illustration of the Stoic
+concept: the corporeal and local but pervasive action of the bodily
+humors or fluids as described, for example, in the Hippocratic trea-
+tiseDenaturahominis.41
+5. principles, elements, god, and world cycles
+The fundamental prior commitment to cosmic unity and cohesion
+iscertainlymanifestintheStoicaccountoftheconstituentsofthe
+cosmos. However, there are opposing tensions which, in combina-
+tionwiththedearthoffragmentaryevidencewepossessconcerning
+Stoicphysicaldoctrine,giverisetointerpretiveproblems.
+Severalproblemsarise,tobeginwith,concerningtherelationbe-
+tweentheapparentlymoreontologicallyfundamentalprinciples(ar-
+chai) and the apparently less ontologically fundamental elements
+(stoicheia). One obvious problem pertains to the status of fire. It is
+sometimesidentifiedwiththeactiveprincipleorgodanddesignated
+‘creativefire’(purtechnikon).Plutarchquotesfromthefirstbookof
+Chrysippus’OnProvidence:
+Whenthecosmosisfierythroughout,itissimplyitsownsoulandcontrol-
+ling principle (heˆgemonikon). But when it has changed into water and the
+soulthatisretainedinit,itinacertainwayhaschangedintobodyandsoul
+soastobecompoundedofthem;thenithasanotherstructure.42
+39 AlexanderofAphrodisas,Mixt.11=SVF2.310.
+40 DLVII138.
+41 OeuvresComple`tesd’Hippocrate,ed.E´.Littre´,Vol.6(1849;repr.1962),32–68.
+42 Plutarch,St.rep.1053b=SVF2.605.134 michael j. white
+Similarly,Origenreportsthat‘thegodoftheStoicshasthewhole
+of substance (teˆn holeˆn ousian) as its controlling principle, when-
+ever there is the conflagration. But when there is the world cycle
+(diakosmeˆsis), he comes to be in part of it’.43 The problem is that
+other sources indicate that god or the active principle ‘generated,
+first of all, the four elements fire, water, air, and earth’.44 As a cre-
+atedandapparentlydestructibleelement,firewouldthenhaveasub-
+sidiary ontological and cosmogonical status. A distinction reported
+in Stobaeus seems to be intended to deal with the problem: ‘there
+aretwokindsoffire:oneisuncreativeandchangesitsnourishment
+[i.e., fuel] into itself; the other is creative, the cause of growth and
+preservation,asitdoesinplantsandanimals,whereitistheir“na-
+ture” (phusis) and soul. This is the sort of fire that is the substance
+ofthestars’.45
+A further problem with respect to the role of principles versus
+elements is that ‘breath’ or pneuma is frequently accorded an ac-
+tive,directivefunctionwithrespecttonaturalprocesses.Pneumais
+frequently characterized as constituted of the elements of fire and
+air.Accordingtooneaccount,itisidentifiedwiththe‘stablecondi-
+tion’ (hexis) that constitutes the characteristic nature of inanimate
+things–alsowiththe‘nature’orphusisofplants,withthesoulofani-
+mals,andwiththerationalsoulofhumans.46Inanaccountgivenby
+Nemesius, this is explicated in terms of a ‘tensile motion’ (tonikeˆ
+kineˆsis) ‘which moves simultaneously inwards and outwards, the
+outward movement producing quantities and qualities and the in-
+ward one unity and substance’.47 In his Physics of the Stoics,
+Sambursky has interpreted this Stoic concept as an anticipation of
+the later conception of ‘force field’ in Western physics,48 a read-
+ing that has not received universal approbation. But Sambursky is
+surelycorrectinemphasizingthecosmologicalroleofthe‘pneuma-
+like tonos [in making] the cosmos into a single cohesive unit’.49
+43 Origen,ContraCelsumIV14=SVF2.1052.
+44 DLVII136.
+45 Stobaeus,Ecl.I25.3=SVF1.120.
+46 SeePhiloofAlexandria,Quoddeussitimmutabilis35=SVF2.458.
+47 NemesiusofEmesa,Denaturahominis70–71(intranslationofLongandSedley
+[1987],Vol.1,47J,283).
+48 Sambursky(1959),31–32.
+49 Sambursky (1959), 5. See Clement of Alexandria, Strom. V 8 = SVF 2.447; and
+AlexanderofAphrodisias,Mixt.10=SVF2.441.StoicNaturalPhilosophy(PhysicsandCosmology) 135
+Although the details are probably forever lost, it seems clear that
+theStoicpneumatikostonosfunctions,inpart,asatechnicalexpres-
+sionofthefundamentalStoicpriorcommitmenttocosmicunityand
+coherence.
+However,theproblemremainsthatpneumaseemsoftentofunc-
+tion in much the way that the active principle (creative fire or god)
+does – whereas its ontological status appears to be not even that
+of an element, but rather a synthesis of elements. Part of the prob-
+lemhere–aswithrespecttotheontologicalstatusoffire–maybe
+the exiguous quantity and polemical quality of our evidence. Part
+of the problem may be differences, now difficult to reconstruct ac-
+curately, among various Stoic thinkers. Yet it seems reasonable to
+suppose that a third part of the problem is that of assimilating pre-
+existing traditions of natural philosophy and physical explanation
+intothemonisticontologicalframeworkdemandedbyfundamental
+Stoiccommitmentstocosmicunityandcohesion.
+Onesuchearliertraditionisthatofthefourelementsor‘roots’–
+fire,air,water,andearth.FortheStoics,thesearecertainlynot‘ele-
+mental’inthesensethateachisafundamental, suigeneriskindof
+matter,whichisincapableofbeingtransformedintoorcoming-to-be
+outofanyoftheotherfourelements.Butneitherweretheelements
+‘elemental’,inthisratherstrongsense,foreitherPlatoorAristotle.
+According to the doctrine of Aristotle’s De generatione et corrup-
+tioneII3,eachofthefourelementsisthecombinationofoneeach
+oftheopposingpairsofqualities,cold/hotandwet/dry:earthiscold
+and dry, water cold and wet, air hot and wet, and fire hot and dry.
+In Meteorologica IV, Aristotle characterizes hot and cold as active,
+wet and dry as passive qualities, commenting that the ‘congealing’
+(sunkritikon)forwhichthehotandthecoldareresponsibleisaway
+ofbeingactive.50
+According to Diogenes Laertius, the Stoics associated fire with
+‘thehot’,waterwith‘thewet’,airwith‘thecold’,andearthwith‘the
+dry’.51 They too apparently distinguished active (drastika) and pas-
+siveelements:airandfireareactive,earthandwaterarepassive.52It
+transpiresthat,intermsoftheStoicpairingsofthequalitativeoppo-
+siteswiththeelements,thisschemamakescoldandhotactive,wet
+50 Meteor.IV1.378b21–23.
+51 DLVII136.
+52 Nemesius,Denat.hom.164=SVF2.418.136 michael j. white
+and dry passive – just as Aristotle had done in the Meteorologica.
+According to Aristotle’s more complex pairings between qualities
+and elements, active and passive qualities are distributed over all
+fourelements.ThechangemadebytheStoicsallowsthemtoasso-
+ciate the active principles of cold and hot – which, as Galen points
+out, are particularly appropriate active principles if one tends to
+think of change in terms of alteration of density or rarefaction and
+contraction53 – with the elements fire and air, of which pneuma or
+‘hotbreath’isconstituted.ItseemsplausiblethattheStoicsadapted
+Aristotelian element theory to make it better conform to the doc-
+trineoftheagencyofpneumatikostonos.However,therelationbe-
+tween pneuma and ‘creative fire’ remains obscure. It may be that,
+as Lapidge has suggested, the former actually replaced the latter as
+anaccountofthecosmicactiveprincipleoraspect.54 Whateverthe
+case,itseemsclearthat,despitethedisdainoftheircritics,theStoics
+wishedtomaintainthecorporealityofthecosmicactiveprinciple.
+As the Eleatics had demonstrated, it is exceptionally difficult to
+‘do cosmology’ with a rigorously monistic vocabulary – whether or
+not the monism in question is materialistic. This difficulty might
+callintoquestiontheverycoherenceoftheenterprise.ButtheStoics
+didnotseemtoworrytoomuchabouttheissueandchose,instead,to
+conscriptthedualisticorpluralisticvocabularyoftraditionalGreek
+cosmology,medicine,andtheology.Onceone,asaStoic,hascometo
+understandtheessentialunityandcohesionof‘thewhole’,itmight
+seemconsiderablylesssignificantwhichofthefollowingtermsone
+uses to designate the ‘active aspect’ of that essentially corporeal
+whole: pur, to heˆgemonikon, pneuma, theos, nous, sperma, hexis,
+or tonikeˆ kineˆsis. Although there are contextual differences, subtle
+ornotsosubtle,amongtheseterms,thereisasenseinwhichoneis
+referring to the same (corporeal) thing or ‘stuff’ by all of them; and
+oneisconnotingthatstuffunderitsactiveaspect.55
+53 Galen,Denaturalibusfacultatibus106=SVF2.406.
+54 LapidgesuggeststhatChrysippusintroducedpneumaasactiveprincipleor‘aspect’
+of the cosmos, perhaps partly to resolve cosmological problems in the thought
+of Zeno and Cleanthes: ‘It will be seen at once that the adoption of pneuma as
+centralagentintheStoiccosmologywouldcausethedistinctionswehavebeen
+considering–thatbetweenarcheˆ andstoicheion,andthatbetweenpurtechnikon
+andpuratechnon–tobeabandoned’(Lapidge[1973],273).
+55 ThisisafeatureofwhatsomecontemporaryscholarshavetermedStoic‘nominal-
+ism’.Inparticular,Stoicmonisticmaterialismvirtuallyguaranteesthat,inmanyStoicNaturalPhilosophy(PhysicsandCosmology) 137
+Another illustration of Stoic accommodation of ontological
+monism to more conventional ways of thinking and speaking
+aboutrealityisfoundinonefeatureoftheStoicdoctrineofcosmic
+cycles. For a monist such as Spinoza, the identity of god and
+nature is axiomatic.56 For orthodox Stoics, the doctrine of cosmic
+cycles allows them to ‘qualify’ this identity to a degree. During
+the phase of conflagration or ekpuroˆsis within a cosmic cycle,
+god may be regarded as completely existing ‘in himself’, so to
+speak. As a passage from Origen, quoted previously, puts it, ‘the
+god of the Stoics has the whole of substance (teˆn holeˆn ousian) as
+its controlling principle, whenever there is the conflagration’.57
+Plutarch indicates that within this phase, deity exists in its purest
+form:duringtheconflagration‘noevilwhatsoeverremains,butthe
+whole is then sagacious and wise’.58 This ‘god-phase’ of the cosmic
+cycle imparts a quasi-transcendence to god and allows the Stoics
+more naturally to speak of deity as the creator of the world order –
+as the ‘creative fire that proceeds systematically to the creation of
+the cosmos encompassing all the seminal principles (spermatikous
+logous) according to which everything comes about by fate’59 and
+as ‘a sort of seed, which possesses the principles of all things and
+the causes of all things that have occurred, are occurring, and will
+occur – the interweaving and ordering of which is fate, knowledge,
+truth,andacertaininevitableandinescapablelawofthethingsthat
+exist’.60
+During the remainder of the world cycle, however, god is im-
+manent in the cosmos as its soul or rational, controlling principle.
+According to Plutarch’s report, Chrysippus claims that ‘the soul of
+the cosmos is not separated but continuously grows until it con-
+sumes its matter into itself’.61 At this juncture, the conflagrational
+god-phase of the world cycle apparently recurs. Thus, the temporal
+phases of the world cycle permit the orthodox Stoics to maintain
+their monistic commitment to the unity and cohesion of what
+instances,adifferenceinlinguisticexpressionsdoesnotcorrespondtoadifference
+inthereferentsofthoseexpressions.
+56 SeeA.A.Long,Ch.15,thisvolume.
+57 Origen,ContraCelsumIV14=SVF2.1052.
+58 Plutarch,Comm.not.1067a=SVF2.606.
+59 Ae¨tius,PlacitaI7=SVF2.1027.
+60 AristoclesinEusebius,Pr.ev.XV=SVF1.98.
+61 Plutarch,St.rep.1052c=SVF2.604.138 michael j. white
+existsbyidentifyinggodandcosmos,whileallottingtogodaphase
+whereheismanifestedinquasi-transcendentalperfection.
+6. causation and cosmic cohesion
+Aswehaveseen,theunityandcohesionofthecosmosisafunction
+oftheactiveprinciple,godorcreativefire;andtheactionofthelatter
+is typically identified with fate (heimarmeneˆ). In Cicero’s De fato,
+fate is identified with ‘antecedent causes’ (‘natural and antecedent
+causes’ or ‘external and antecedent causes’), which are character-
+izedas‘assistingandproximatecauses’(causaeadiuvantesetproxi-
+mae)anddistinguishedfrom‘completeandprincipalcauses’(causae
+perfectae et principales). One aim of Chrysippus in making these
+distinctionsappearstohavebeenthedevelopmentofaformof‘soft-
+determinist’compatibilism,atopicdiscussedinChapter7.
+Inthischapter,however,theconcernismorewiththedetermin-
+ismChrysippusevidentlyassociatedwithhisconceptofantecedent
+causes. At De fato 20–21, Chrysippus is portrayed as arguing by
+modus tollens from the premises that every proposition (axioˆma)
+is true or false and that if there is motion without a cause (motus
+sine causa), then not every proposition will be true or false to the
+conclusion that there is no motion without a cause. He then in-
+fers that everything that happens by preceding causes (causis fiunt
+antegressis)and,consequently,thateverythinghappensbyfate.Itis
+clearthatanimportantassumptionofChrysippus’argumentisthat
+the truth or falsity of propositions with future signification entails
+theexistenceofantecedentcausesthatbringabout(orpreclude,re-
+spectively) the states of affairs that would make those propositions
+true(orfalse,respectively).
+TheStoicaccountoffateasa‘chainofcauses(i.e.,anunalterable
+ordering and concatenation’)62 is characterized by Quintus Cicero,
+theStoicspokespersoninCicero’sDedivinatione,asbeingamatter
+ofphysics,notsuperstition.63ApassageinAlexanderofAphrodisias’
+relates the Stoic conception of an all-encompassing causal nexus
+quite directly to Stoic concern with the unity and cohesion of the
+cosmos:
+62 Ae¨tius,Placita I28=SVF2.917.
+63 Cicero,Div.I126.StoicNaturalPhilosophy(PhysicsandCosmology) 139
+Nothingcomestobeintheuniverseinsuchawaythatthereisnotsome-
+thing else which follows it with no alternative and is attached to it as to
+a cause; nor, on the other hand, can any of the things which come to be
+subsequentlybedisconnectedfromthethingswhichhavecometobeprevi-
+ously,soasnottofollowoneofthemasifboundtoit.Buteverythingwhich
+hascometobeisfollowedbysomethingelsewhichofnecessitydependson
+itasacause,andeverythingwhichcomestobehassomethingprecedingit
+towhichitisconnectedasacause.Fornothingeitherisorcomestobein
+theuniversewithoutacause,becausethereisnothingofthethingsinitthat
+is separated and disconnected (apolelumenon te kai kechoˆrismenon) from
+allthethingsthathavepreceded.Fortheuniversewouldbetornapartand
+dividedandnotremainsingleforever,organizedaccordingtoasingleorder
+andorganization,ifanycauselessmotionwereintroduced;anditwouldbe
+introduced,ifallthethingsthatareandcometobedidnothavecauseswhich
+havecometobebeforehand(progegonota=antecedentes)[and]whichthey
+followofnecessity.64
+A few lines later, Alexander states the fundamental principle of
+Stoicdeterminism:
+It is equally true with respect to all [of the sorts of cause that the Stoics
+distinguish],theysay,thatitisimpossible,whenallthecircumstancessur-
+rounding(periesteˆkotoˆn)boththecauseandthatofwhichitisacauseare
+thesame,thatthingsshouldnotturnoutacertainwayononeoccasionbut
+thattheyshouldturnoutthatwayonsomeotheroccasion.Ifthiswereto
+bethecase,[theysaythat]therewouldbesomeuncausedmotion.65
+Suchaprinciplehasbecomevirtuallyparadigmaticasastatement
+of causal determinism. It is regarded by the Stoics as a corollary of
+their commitments to the unity and cohesion of the cosmos and
+to an all-encompassing divine reason controlling that cosmos. And
+theprincipleofdeterminismitselfhasascorollariestwosignificant
+Stoic physical doctrines: ‘nonevident’, ‘obscure’, or ‘hidden’ (adeˆla)
+causalfactors,andtheeternalrecurrenceoftheworldorder.
+Itisaplainfactthatthisprincipleofuniversalcausaldeterminism
+doesnotseemtobetruewithoutexception:thatis,itdoesnotseem
+to be universally the case that when all the relevant causal factors
+are the ‘same’, there is always the same outcome. A very obvious
+move, for those such as the Stoics whose prior commitments lead
+64 AlexanderofAphrodisias,Fat192,3–14(inthetranslationofSharples[1983]70–
+71).
+65 Fat.192,22–25.140 michael j. white
+themtoembracetheprincipleinastrictlyuniversalform,istointro-
+duce the concept of causal features that are difficult (or practically
+impossible) to detect but are sufficiently significant to produce dif-
+ferent effects depending on their presence or absence. That the
+Stoics adopted such an account of chance (tucheˆ) is attested by a
+number of citations taken from von Arnim’s collection, Stoicorum
+VeterumFragmenta:chanceisa‘causenonevidenttohumancalcula-
+tion/thought/reason’(aitiaadeˆlosanthroˆpinoˆilogismoˆi/anthroˆpineˆi
+dianoiaˆi/anthroˆpinoˆi logoˆi).66 In his De Stoicorum repugnantiis,
+Plutarch makes it clear that Chrysippus appealed to such nonevi-
+dentcauseswithinthecontextofhisstrictcausaldeterminism.Just
+as nonevident causes effect different outcomes with respect to the
+behavior of balances and scales, ‘we do not notice them when they
+directourownimpulseonewayortheother’.67Itisessentiallythese
+sameaitiaiadeˆloithatreappearinthephenomenawithwhichcon-
+temporary chaos theory is concerned, where minute differences in
+‘initialconditions’–thatis,‘causalnoise’–canyieldgreatdifferences
+in effects. With respect to many of the Stoics, one consequence of
+thedoctrineofnonevidentcausesseemstohavebeenacertainret-
+icence about the development of causal explanations of particular
+natural phenomena. Commenting on a remark of Strabo pertaining
+to Posidonius (‘With him [sc. Posidonius] we find a lot of aetiology
+and a lot of Aristotelizing which members of our school shy away
+frombecauseoftheobscurityofthecauses’68),Fredecommentsthat
+‘according to Strabo, then, the Stoics in general are hesitant to en-
+gageinaetiologybecausetherealcausesaresohiddenandobscure;
+Posidonius is an exception, and in this respect he is rather more
+likeaPeripatetic’.69 Fredefurthernotesthata‘recurringcomplaint’
+againstChrysippusinGalen’sDeplacitisHippocratisetPlatonisis
+thathe‘failstostatethecauseorclaimsthatthetrueexplanationis
+uncertainortoodifficulttofigureout’.70
+Although, according to Chrysippus, it may be quite difficult to
+work out the aetiology of particular events and states of affairs,
+the commitment to cosmic unity and coherence in the form of the
+66 SeeSVF2.965,2.966,2.967,2.970,and2.971.
+67 Plutarch,St.rep.1045c.
+68 Strabo,GeographicaII3.8.23–25.
+69 Frede(1987),130.
+70 Frede(1987),131.StoicNaturalPhilosophy(PhysicsandCosmology) 141
+fundamental principle of determinism entails that there is such an
+aetiology.Insofaraswecandetermine,commitmenttothisgeneral
+physical principle, as an expression of cosmic unity and coherence,
+was much more important to most Stoics than the limitations im-
+posed on the explanation of particular physical phenomena by the
+existence of ‘hidden’ causes. This feature of Stoic physical thought
+underlines the general point that what the Stoics expected from
+physics, as a principal subdivision of philosophy, is not the same
+ideal of ‘explanation of nature’ attached to many classical modern
+andcontemporaryconceptionsofphysics:anomic-deductivepicture
+according to which the ‘covering laws’ of physics plus a complete
+description of an instantaneous world-state allows an omniscient
+observertopredictthesubsequenthistoryoftheworldtothefinest
+detail.
+Alsointimatelyrelatedtothefundamentalprincipleofdetermin-
+ism is a Stoic doctrine we have previously encountered: eternally
+recurring world orders or cosmic cycles. In one classical form, the
+doctrineseemstohavebeenthatofexacteternalrecurrence:that,as
+Nemesius puts it, ‘there will be nothing different in comparison to
+whathashappenedbefore,buteverythingwilloccurinjustthesame
+wayandindistinguishably,eventotheleastdetails’.71 Thisformof
+the doctrine may well have been the most orthodox one because of
+thefactthatitistheformthatseemstorespectmostrigorouslythe
+Stoicprincipleofcausaldeterminism.Althoughtheprincipleofde-
+terminismdoesnotentailthisdoctrineofexactrecurrence,theprin-
+ciplewouldseemtoentailthatifthereoccursa‘totalstate’ yofthe
+cosmos,indistinguishableinalldetailfromapriortotalcosmicstate
+x,therewillbeaneternalrecyclingofcosmichistoryinbetween.It
+seems likely that the Stoics appealed to the common ancient doc-
+trineofthe‘greatyear’(annusmagnusorperfectus)tosupporttheir
+assumptionthattheantecedentoftheconditionalissatisfied.This
+doctrine,mentionedinPlato’sTimaeus(39d)andCicero’sDenatura
+deorum (II 20), is that of the return of the heavenly bodies to their
+exact relative positions. At Contra Celsum V 21, Origen attributes
+suchadoctrinetothe‘PlatonistsandPythagoreans’inthecontextof
+asortofastrologicaldeterminism:‘forwhenincertainfixedcycles
+the stars adopt the same configurations and relationships to each
+71 Nemesius,Denat.hom.38=SVF2.625.142 michael j. white
+other,theysaythateverythingonearthisinthesamepositionasit
+wasatthelasttimewhentherelationshipofthestarsintheuniverse
+to one another was the same’.72 The same passage from Nemesius
+citedpreviouslysuggeststhattheStoicsappropriatedthedoctrineof
+thegreatyeartotheirownuse:
+The Stoics say that when the planets return to the same position, with
+respect to inclination and declination, to where each was at the begin-
+ning when the cosmos was first established, at specified periods of time
+they bring about the conflagration and destruction of things. And when
+again the cosmos returns from the beginning to the same state, and when
+again the heavenly bodies are similarly disposed, each thing that occurred
+intheformerperiodwillcometopassindistinguishably[sc.,fromitspast
+occurrence].73
+As a number of contemporary commentators have noted, there
+wereseveralvariantsoftheStoicdoctrineofeternalrecurrence.One
+variant apparently was derived from consideration of the identity
+ofindividuals,events,andsoforthacrosscosmiccycles.Simplicius
+reports that the Stoics ‘reasonably ask whether the I [that exists]
+nowandtheI[thatexisted]thenareoneinnumber,orwhetherIam
+fragmented (diaphoroumai) by the ordering of cosmic cycles one to
+thenext’.74Soavariantoftheorthodoxdoctrineofexactrecurrence
+reported by Origen is that an individual such as Socrates ‘does not
+cometobeagainbutanindistinguishablecounterpart(aparallaktos)
+of Socrates, who will marry an indistinguishable counterpart of
+Xanthippe,andwillbeprosecutedbyindistinguishablecounterparts
+of Anytus and Meletus’.75 As Barnes has pointed out, this variant
+appears to conflict with a principle of identity of indiscernibles
+accepted by most Stoics.76 Plotinus seems to suggest restriction of
+the principle of identity of indiscernibles to single cosmic cycles,77
+but we do not know whether any Stoics adopted such a solution.
+WealsodonotknowwhetheranyStoicsentertainedthedistinction
+betweena‘conceptionoftimeascircular[withjustoneworldcycle
+72 Origen,ContraCelsumV21(inthetranslationofChadwick[repr.1965]280).
+73 Nemesius,Denat.hom.38=SVF2.625.SeeCh.1,Sedley,thisvolume,onother
+PythagoreanizingaspectsofStoicism.
+74 Simplicius,InAr.Phys.886.13–16=SVF2.627.
+75 Origen,ContraCelsumIV68=SVF2.626.
+76 Barnes(1978),10–11.
+77 Plotinus,Enn.V7.221–23.StoicNaturalPhilosophy(PhysicsandCosmology) 143
+‘joined’ at beginning and end by the ekpuroˆsis] and a conception of
+timeaslinear...butinwhichacertainsequenceofevents/statesof
+affairsisexactlyandeternallyrepeated’.78
+Although these issues are rather rarefied, there is one further at-
+tested variant of the doctrine of recurrence that strikes at the heart
+of Stoic natural philosophy. This is a doctrine, reported by Origen
+atContraCelsumV20,thatallowssomesmalldifferencesfromcy-
+cle to cycle. Not surprisingly, Alexander interprets this doctrine in
+Aristotelianterms–asallowingsomevariationfromcycletocycle
+with respect to ‘accidental’ attributes.79 Barnes is surely correct in
+noting that such a variant would amount to abandoning causal de-
+terminism.Alsoplausibleishissuggestionthat,sincedeterminism
+is so central to Stoic natural philosophy, such a heterodox doctrine
+could only have been maintained by a minor figure in the school’s
+history (‘par un personnage de peu d’importance dans l’histoire du
+stoı¨cisme’).80
+Withrespecttotherelationbetweeneternalrecurrenceanddeter-
+minism,itisworthreemphasizingthepointthatbothdoctrineswere
+considered by the Stoics as manifestations of the all-encompassing
+divine reason controlling the cosmos. In the words of Long and
+Sedley,
+Itwouldbeamistake,however,tothinkofeverlastingrecurrenceasapurely
+mechanical consequence of Stoic determinism. God is a supremely ratio-
+nal agent, and the most interesting fact about the conflagration is its om-
+nipresent instantiation of his providence...In his own identity god is the
+causal nexus...; hence the sequence of cause and effect is an enactment
+of divine rationality and providence. Since every previous world has been
+excellent...,godcanhavenoreasontomodifyanysucceedingworld.81
+TheStoics’commitmenttotheunityandcoherenceofthecosmos
+as controlled by providential divine reason results in a deemphasis
+onhumanautonomy,insofarassuchautonomywouldcompromise
+thecohesivenessoftheuniverseandthehegemonyofdivinereason.
+However, it seems that most Stoics wanted to allow some concep-
+tion of human responsibility. The consequence is one of the first
+78 White(1985),174.
+79 AlexanderofAphrodisias,InAr.An.pr.181.25–31=SVF2.626.
+80 Barnes(1978),10.
+81 LongandSedley(1987),Vol.1,311.144 michael j. white
+explicit occurrences of soft determinism in Western thought – that
+is, the affirmation of the principle of causal determinism together
+with a conception of ‘what is up to us’ (to eph’ heˆmin) considered
+tobecompatiblewithdeterminism.CiceroreportsthatChrysippus
+wished to ‘strike a middle position’ between those who hold ‘all
+things happen by fate in such a way that fate bears the force of ne-
+cessity’ and those who hold that the ‘motions of minds are volun-
+tary and without any fate’.82 It is not clear whether Chrysippus or
+otherStoicsdevelopedmorethanonestrategyforstakingoutasoft-
+determinist middle ground. But it is clear that Cicero believed that
+Chrysippus’ most important strategy involved distinguishing types
+ofcause:‘sinceChrysippusbothrejectednecessityandwishednoth-
+ing to transpire without preestablished causes (praepositis causis),
+he distinguished kinds of causes so that he might escape necessity
+butretainfate’.83
+The Stoics were famous (or notorious) for distinguishing what
+Alexander calls a whole ‘swarm of causes’ (smeˆnos aitioˆn),84 and it
+seemslikelythattheprincipalmotivationbehindtheStoic‘investi-
+gationintocauses’oraitiologiawastoworkouttheirsoftdetermin-
+ism,whichpermitsthemtomaintaintheircommitmenttocosmic
+unityintheformofaprincipleofuniversalcausaldeterminismwith-
+outentirelysacrificingthecommonsensicalideathathumanagents,
+atleastonsomeoccasions,areresponsiblefortheiractions.Despite
+considerableclarificationprovidedbycontemporarycommentators,
+the details of the various Stoic causal schemata remain controver-
+sial.85 Nonetheless, Cicero makes it clear that the distinction be-
+tween‘completeandprincipal’(perfectaeetprincipales)causesand
+‘antecedent’causesthataresaidtobe‘assistingandproximate’(adi-
+uvantesetproximae)iscrucialto(oneversionof)Chrysippeansoft
+determinism.Theprincipalandperfectcausesseemtobethesame
+thing as the distinctively Stoic ‘sustaining’ (sunhektika) causes,
+whichClementalsoreferstoas‘complete’(autoteleˆ).86Asynekticor
+sustaining cause apparently (1) necessitates its result; (2) is tempo-
+rally coincidental with its result; and (3) is, in the words of Frede,
+82 Cicero,Fat.39.
+83 Fat.18.41.
+84 AlexanderofAphrodisias,Fat.192,18.
+85 See,inparticular,Bobzien(1998).
+86 ClementofAlexandria,Strom.VIII9=SVF2.351.StoicNaturalPhilosophy(PhysicsandCosmology) 145
+regardedbytheStoicsasa‘visontheinside[ofthethingpossessing
+it],...somethingactive,somethingwhichexertsaforce’thatbrings
+about its effect.87 There are several illustrations attributed by
+CicerotoChrysippus:whereasacylinderandatop‘cannotbeginto
+movewithoutbeingpushed,butwhenthishappens,hethinksthat
+thecylindercontinuestorollandthetoptospinbytheirownnature
+(suapte natura)’.88 It is this ‘nature’ that is the synektic cause of
+thebehaviorofcylinderandtop.Andthisnatureisconceivedbythe
+Stoicstobesomethingmorethanamerepassive,necessary‘standing
+condition’.
+ItisperhapspossibletoregardaStoicsynekticcauseassomething
+analogous to a Peripatetic formal cause, something that accounts
+forthecharacteristicbehavioror‘wayofbeing’ofitspossessor–al-
+though,ofcourse,itisconceivedbytheStoicsasanactive,corporeal
+principle.Inthecaseofhumanbehavior,CicerodepictsChrysippus
+asmaintainingthatactsof‘assent’requireantecedentcausesinthe
+form of sense impressions, but that such sense impressions are not
+synektic causes of the acts of assent. Thus, the act of assent ‘will
+be in our power’ (sed assensio nostra erit in potestate) because of
+itsbeingtheeffectofsomesynekticcauseapparentlyexpressingour
+rationalnature–‘inthewaythatitwasexplainedthat,withrespect
+tothecylinder,althoughitwaspushedfromwithout,itnonetheless
+movesbyitsownforceandnature’.89
+Stoic accounts of ‘freedom and responsibility’ are discussed in
+Chapter7.Mypresentinterestislimitedtoitsconnectionwiththe
+Stoic commitment to cosmic unity and cohesion. Whereas a non-
+Stoic incompatibilist such as Alexander is committed to locating
+humanresponsibilityinacertaindegreeof‘causalseparation’ofthe
+agentfromtherestofthecosmos,itisclearthattheStoiccommit-
+menttocosmiccohesionanditscorollary,anall-encompassingprov-
+idential cosmic reason, will not allow for a similar maneuver. Like
+subsequent determinists such as Spinoza, orthodox Stoics shift the
+emphasisfromhumanresponsibilitytohumanworthanddignity–
+or reinterpret human responsibility in terms of worth and dignity.
+It seems plausible to claim that human dignity or worth need not
+requireanysortofcausalseparationofhumansfromtherestofthe
+87 Frede(1987),140.
+88 Cicero,Fat.42.
+89 Fat.44.146 michael j. white
+cosmos.Asrationalagents,‘fragments’ofdivinereason,wecanthink
+ofourselvesasministersofthedivinereasonconstitutingtheruling
+principle or to heˆgemonikon of the cosmos. In fact, Chrysippus is
+depictedbyCiceroasarguingfromthedignityandworthofman(by
+implicitappealtotheStoicpremisethatawholecannotbe‘inferior’
+toanyofitsparts)totheconclusionthatgodexists:
+forin[man]alonethereisreason,thanwhichthereisnothingmoreexcellent
+that can exist. But for there to be some man who believes that there is
+nothing in all the world that is better than himself is foolish arrogance.
+Therefore,godcertainlyexists.90
+7. anticorpuscularianism
+and cosmic cohesion
+At the time of the founding of the Stoa, Aristotle had worked out
+a detailed conceptual account of change. But since appeal to incor-
+poreal forms was central to the Aristotelian account (as were such
+distinctively Aristotelian metaphysical notions as potentiality and
+actuality), such an account likely would not have found favor with
+theearlyStoics.Thematerialistaccountofchangeonofferwascor-
+puscularian–thatofthePresocraticandEpicureanatomists.Butthis
+sortofaccount,too,wouldseemtoviolatefundamentalStoiccom-
+mitments concerning the unity and cohesion of the cosmos. Since
+eachcorpuscle(atom)isquiteseparateandself-contained,separated
+from other atoms by void, there is a very literal sense in which the
+constituents of the cosmos do not constitute a cohesive unity. The
+Stoicresponsewastodevelopananti-corpuscularianformofmateri-
+alism,inwhichthebodyconstitutingthecosmosischaracterizedby
+a seamless, radical continuity. One well-attested corollary of Stoic
+anticorpuscularianismwasthepeculiarStoicdoctrineoftotalblend-
+ing(krasisdi’holoˆn).Another,forwhichtheevidenceismuchmore
+speculative, is the elimination of ‘sharp divisions’ in the form of
+limitssuchassurfacesfromthecosmos.
+The former doctrine of total blending is criticized as paradoxical
+byAlexanderofAphrodisiasinhisDemixtioneandbyPlutarchinDe
+communibusnotitiisadversusStoicos.Alexanderassociatesitwith
+the Stoic doctrine of the radical continuity of matter – with those
+90 Cicero,NDII16.StoicNaturalPhilosophy(PhysicsandCosmology) 147
+‘who say that matter is completely unified and who hold that it is
+one and the same for all those things that come to be’.91 According
+to Alexander, there is some difference of opinion among the Stoics
+pertaining to mixture. He proceeds to concentrate on the doctrine
+of Chrysippus, reporting that although Chrysippus holds that all of
+the cosmos or substance (ousia) is unified because of the pneuma
+(mixtureoffireandair)permeatingthroughallofit,henevertheless
+distinguishes three kinds of mixture of bodies within the cosmos.
+Onekindissimplythejuxtaposition(parathesis)ofsizeable‘chunks’
+of different stuffs (beans and grains of wheat, in Chrysippus’ exam-
+ple), which Chrysippus says occurs by ‘fitting together’ or juncture
+(harmeˆ) and in which each constituent preserves its proper nature
+andquality.Ofcourse,fromanatomistperspective,allmixture,and
+hence all change, occurs by such corpuscularian juxtaposition. An-
+other sort of mixture is total combination (sunkrisis di’ holoˆn), in
+whichtheconstituentsubstancesandthequalitiestheycontainare
+altogetherdestroyedinordertoproducesomethingqualitativelydis-
+tinct from the constituents. Alexander does not accord this type of
+Chrysippean mixture much attention, but it must have been con-
+ceived by the Stoics as the total replacement, in a given material
+substratum, of one set of qualitative determinations by another –
+where ‘qualitative determination’ is itself conceived in corporeal
+terms(e.g.,asdifferentdegreesof‘tension’ofmatter).Thethirdtype
+of mixture is total blending (krasis di’ holoˆn) or blending proper,
+the‘interpenetrationoftwoormorebodiesinsuchawaythateach
+preservesitsownpropernatureandownqualitiesinthemixture’.92
+Itisthislastkindofmixture,totalblending,thatbothAlexander
+andPlutarchcriticizeasparticularlyparadoxical.Alexanderreports
+whatmaywellhavebeenChrysippus’accountoftotalblending:
+thecommingledbodiesgothroughoneanother(choˆrountoˆndi’alleˆlon)in
+suchawaythatthereisnopartofthemthatdoesnotpartakeofeverything
+insuchablendedmixture.Ifthiswerenotthecase,thentheresultwould
+nolongerbeablending(krasin)butratherajuxtaposition(parathesin).93
+The idea seems to be that, no matter how small a three-
+dimensional spatial area occupied by such a total blending one
+91 AlexanderofAphrodisias,Mixt.216,1–2.=SVF2.470.
+92 Mixt.216,28–31=SVF2.473.
+93 Mixt.217,10–13=SVF2.473.148 michael j. white
+considers,suchanareaisoccupiedbyalltheconstituentsofthemix-
+ture.Consequently,suchatotalblendingcannotbeconceivedasbe-
+ingconstitutedofverysmallbutseparatedcorpuscles,bits,globules,
+ordropletsoftheoriginalblendedelements.Foriftherewerewithin
+the blend such corpuscles, each with its own surface, of the origi-
+nal blended elements, there would be a certain three-dimensional
+spatialmagnitudebelowwhichtheelementswouldnotbecommin-
+gled. Alexander points out that a consequence of this view is that
+nopartoftheoriginalconstituentsintheblendingcanhaveitsown
+surface(epiphaneia).Hearguesthatthisfactentailsthattheoriginal
+constituents in the blend would not be preserved and would not be
+capable of being separated out – as Chrysippus had claimed – but
+wouldbe‘jointlyfusedanddestroyed’.94 Intheseargumentsagainst
+theintelligibilityoftheStoicdoctrineoftotalblending,itisclaimed
+that the idea of the existence of surfaces (of supposed corpuscles of
+constituentelementsorbodies)inamixtureisinconsistentwiththe
+Stoicconceptionoftotalblending.PerhapsoneradicalStoicresponse
+tosuchcriticismwouldhavebeentodoawaywiththe‘physicalre-
+ality’ofsurfacesaltogether,anissuetowhichIshallsoonreturn.
+However,itseemsthat,amongthevariouscriticismsoftheStoic
+doctrine of total blending, the principal one is that it contradicts
+quantitative facts about mixing substances together. The doctrine
+of total blending apparently implies that each constituent stuff or
+body be the receptacle of the other. Critics of the doctrine assume
+thatthismeansthatthespatialvolumeofeachconstituentquantity
+of stuff be the receptacle of the other. So, as Plutarch puts it, if one
+ladleofwineistobetotallyblendedwithtwoofwater,thewinewill
+have both the volume of one ladle (because that is what one begins
+with)butalsothevolumeoftwoladles‘byequalizationofblending’
+(teˆskraseoˆsexisoˆsei),becausethatisthevolumeofthewaterwhich
+supposedlybecomesthereceptacleofthewinethatistotallyblended
+withit.95 Plutarchtakesthistobeaparadoxicalconsequenceofthe
+doctrine of those who ‘stuff bodies into body’.96 Plotinus reports a
+similar criticism. The fact that a mixture (typically) occupies more
+spacethanthatofeitherofitsconstituentstuffs–namely,thatofthe
+sumofthespacesofitsconstituents–tellsagainsttheStoicdoctrine
+94 Mixt.220,37–221,15.
+95 Plutarch,Comm.not.1078a.
+96 Comm.not.1078b.StoicNaturalPhilosophy(PhysicsandCosmology) 149
+oftotalblending.Forifthereweretotalblending,thespaceoccupied
+bythetotallyblendedcompoundshouldremainthesameasthatof
+theconstituentstuff–butwhichone?97
+Although there is no record of any Stoic response to this sort of
+criticism, a possible response emphasizes the distinction between
+two conceptions of quantity. In one sense of ‘quantity’, something
+likethecontemporarysenseof‘mass’,thequantityofabodyorstuff
+remainsconstantthroughvariouschanges.Inanothersenseof‘quan-
+tity’, something like the sense of ‘volume’, quantity is quite vari-
+able:thesamemassofstuff(e.g.,ofH O)canassume,inundergoing
+2
+variousprocessesofchange,quitedifferentspatialvolumes(e.g.,as
+ice, water, and steam). As I have previously suggested, it is open to
+Chrysippus to maintain that total blending is one such process of
+change that can result in the same mass assuming different spatial
+volumes.Soitisnotaprioriabsurdtoarguethat
+before a total blending a quantity (mass sense) of wine possesses a certain
+volume(viz.,adrop).Afterbeingtotallyblendedwiththeoceanwater,the
+samequantity(masssense)ofwinepossessesamuchgreatervolume(viz.,
+oneequaltothatoftheoceanwaterandalsotothatofthetotallyblended
+oceanwater-and-wine).98
+We are inclined to assume that the volume of two quantities of
+stuff that have been blended should simply be the numerical sum
+of the volumes of the two quantities of stuff before being blended.
+But there is no a priori reason why this assumption should be true.
+The existence of such a common belief is no doubt the result of
+experience. But, as Sharvy has pointed out, experience sometimes
+falsifiesthisassumption:mixing10cc.ofwaterwith10cc.ofalcohol
+yieldsabout19cc.ofmixture.99
+Accustomed as we are to physical theories that assume some
+quantumstructureorotherofmatter,Stoicanticorpuscularianism–
+the doctrine that material stuffs have a radically continuous struc-
+ture – may strike us as a peculiar and, perhaps, unpromising basis
+for physics. However, it is far from clear that such an assumption
+yieldsinternalinconsistenciesthatcanleadtoits apriori rejection
+in the ways suggested by Alexander, Plutarch, and Plotinus. And,
+97 Plotinus,EnneadesII7.1=SVF2.478.
+98 White(1986),386.
+99 Sharvy(1983),451.150 michael j. white
+for the Stoics, anti-corpuscularianism was surely an important
+manifestationoftheircommitmenttocosmicunityandcohesion.
+It is also possible that a Stoic doctrine pertaining to limits (e.g.,
+surfaces,edges,andboundaries)wascloselylinkedtotheircommit-
+ment to cosmic cohesion and to their anti-corpscularianism. There
+is a fair amount of evidence for a Stoic doctrine which denied that
+limits possess corporeal status. Proclus reports that the Stoics held
+that limits ‘subsist in mere thought’ (kat’ epinoian psileˆn huph-
+estanai).100 Plutarch evidently interprets this doctrine as implying
+that limits belong to the Stoic ontological category of incorporeals
+(asoˆmata),andconsequentlyarenottobereckonedamongthethings
+thatexist.101 However,DiogenesLaertiusmentionsthatPosidonius
+maintained that surface (epiphaneia) exists ‘both in thought and in
+reality’(kaikat’epinoiankaikath’hupostasin),102andseemstosug-
+gestthat,incontrast,themoreorthodoxStoicviewwasthatsurfaces
+andothersuchlimitsexistonlyinintellectu.LongandSedleyspec-
+ulatethat‘theStoicsregardedlimitsasmentalconstructs...,andas
+suchtheymaywellhaveseenthemasfallingaltogetheroutsidethe
+corporeal-incorporealdichotomy’.103Infact,theysuggestthatlimits
+belong in their own Stoic ontological category, which also includes
+fictional entities.104 It is surely possible to interpret the Stoic doc-
+trineofsurfacesandsuchlimitsasnomorethantheobviousandnot
+very portentous claim that, since such entities lack one or more of
+thethreedimensionscharacterizingbodies,theycannotbecorporeal
+andhence(accordingtotheStoicidentificationofwhatiscorporeal
+withwhatexists)donotexist.However,bothLongandSedleyandI
+haveentertainedthestrongerhypothesisofaStoicdoctrineaccord-
+ing to which limit entities, as ‘mental constructs’, are ‘geometers’
+fictions, and hence involve a degree of misrepresentation’ of physi-
+calreality.105 Brunschwighassuggestedyetanotherpossibility,that
+limitsbelongoutsideofthecategoryof‘something’altogether.They
+‘could be considered as purely mental constructions with no objec-
+tivereality,thatistosay,asNSTs[notsomethings]’.106
+100 Proclus,InprimumEuclidiselementorumlibrumcommentarii89.16.
+101 Plutarch,Comm.not.1080e.
+102 DLVII135.
+103 LongandSedley(1987),Vol.1,301.
+104 Seethe‘stemma’ofStoicontologicaldistinctionsinLongandSedley(1987),Vol.
+1,163.
+105 White(1992),286.
+106 Brunschwig(1994a),97.StoicNaturalPhilosophy(PhysicsandCosmology) 151
+Ihaveelsewhereattemptedtodevelopinsomewhatgreaterdetail
+anaccountofthephysicalimplicationsofaninterpretationoflimits
+that minimizes or denies their reality. That account uses some ba-
+sicconceptsdrawnfromcontemporary‘fuzzy’point-settopology.107
+Fromarelativelynontechnicalperspective,
+theStoicremovaloflimitentitiesfromthephysicalworldresultsinasort
+of intuitive or ‘pre-analytical continuity’ of to holon, the entire physical
+cosmos.Onephysicalobjectissotopologicallyinterconnectedwithitsen-
+vironmentthattherearenojoints,sotospeak,betweenthem;theyinsen-
+siblyblendintooneanother...[C]ontinuityinthisintuitivesenseistobe
+thought of not just as an epistemic limitation but as an ontological fact
+deriving from the removal of limit entities from the physical world and
+theontologicalindeterminacyintroducedbytheeliminationofsuchlimits
+kath’hupostasin.108
+Of course, such an interpretation of the Stoic doctrine of limits
+is highly speculative. However, as noted toward the beginning of
+thischapter,theimportanceaccordedbyDiogenesLaertiusto‘lim-
+its’ (perata) in his account of Stoic taxonomy of the subdivisions
+ofphysicssuggeststhatsomethingfairlyimportantandperhapsex-
+traordinary was going on with respect to the Stoic conception of
+limits. The conception of all such limit entities as geometrical fic-
+tions,inthesensethathasjustbeenspecified,wouldcertainlyseem
+to be a rather important and extraordinary conception. If, in fact,
+suchaconceptionwasdevelopedbytheStoics,thereislittledoubt
+that it was yet another manifestation of Stoic commitment to cos-
+mic unity and cohesion. In that regard I heartily concur with the
+rationale given by Brunschwig for his placing of limits in the ‘cate-
+gory’ of ‘not something’: such an account, he says, ‘is the one that
+seemsthemostplausible,bearinginmindtheStoics’fundamentally
+continuisticconceptionofthephysicaluniverse’.109
+8. conclusion
+Much of the evidence that we possess concerning Stoic physics or
+naturalphilosophycomesfromhostilesources,thepurposeofwhich,
+inmanycases,istomakeStoicdoctrineappeartobeeitherinternally
+107 SeeWhite(1992),Ch.7.
+108 White(1992),324–325.
+109 Brunschwig(1994a),97.152 michael j. white
+incoherentoratoddswithcommonsense.Theenduringexegetical
+problem,then,iswhetherthisevidence,despiteitsobviouslypreju-
+dicialcharacter,istobeinterpretedasamoreorlessaccurateaccount
+ofStoicdoctrineorwhetheritisusuallyadistortionormisrepresen-
+tationofStoicdoctrine.Itseemsunlikelythatthisissuecaneverbe
+completelyadequatelyresolved,evenwithrespecttoasinglesource
+such as Plutarch or Alexander of Aphrodisias or Origen. Thus, we
+areleftwithanexegeticalchoice.
+If we elect, at least initially, not to appeal to the hypothesis of
+thoroughgoingmisunderstandingormisrepresentationofStoicnat-
+ural philosophy, we must still deal with what often will strike us
+as counterintuitive or strange doctrines in what these sources tell
+usaboutStoicphysicaldoctrines.Placingsuchdoctrineswithinthe
+context of fundamental Stoic ‘prior commitments’ frequently has
+the effect of mitigating their peculiarity. It seems particularly im-
+portanttoremindourselvesfrequentlythat,asHellenisticthinkers,
+theStoicsheldthatallhumanknowledgeisultimately‘practical’in
+thesenseofinformingusofthebestwaytoliveourlives.‘Physics’
+ornaturalphilosophyisinnowaytobeexcludedfromthisclaim.
