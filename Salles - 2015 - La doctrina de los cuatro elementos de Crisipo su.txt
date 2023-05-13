@@ -1,0 +1,690 @@
+ISSN: 0213-3563
+LA DOCTRINA DE LOS CUATRO ELEMENTOS DE CRISIPO:
+SU LUGAR EN LA TEORÍA ESTOICA DE LA
+CONFLAGRACIÓN Y SUS ORÍGENES EN ANAXÍMENES
+Chrysippus’ doctrine of the four elements: its place in the Stoic theory
+of the conflagration and its origins in Anaximenes
+Ricardo Salles
+Universidad Nacional Autónoma de México
+Recibido: 2 de febrero de 2015
+Aceptado: 2 de junio de 2015
+RESUMEN
+En este trabajo discuto el argumento de Crisipo a favor de la indes-
+tructibilidad del cosmos que aparece en Eusebio, Praeparatio Evangelica
+15.18.1-3. Este argumento complementa al que aparece en Plutarco, De
+Stoicorum Repugnantiis 1052C, pero descansa sobre una base distinta, a
+saber, la teoría de la disolución de los cuerpos complejos en los cuatro
+elementos y la teoría sobre cómo estos últimos se transforman los unos
+en los otros. Según veremos, existen antecedentes importantes de estas
+teorías en Anaxímenes y su teoría del cambio. Al final, me ocupo de dos
+objeciones que los propios estoicos formularon en contra del argumento
+de Crisipo.
+Palabras clave: cosmología antigua; monismos material; física estoica
+ABSTRACT
+In the present paper I discuss Chrysippus’ argument for the indes-
+tructibility of the cosmos at the conflagration at Eusebius, Praeparatio
+© Ediciones Universidad de Salamanca Azafea. Rev. filos. 17, 2015, pp. 33-50ricardo salles
+34 la doctrina de los cuatro elementos de crisipo: su lugar en la teoría...
+Evangelica 15.18.1-3. This argument complements another Chrysippean
+argument for the indestructibility the cosmos (Plutarch, De Stoicorum Re-
+pugnantiis 1052C), but it proceeds from a different basis: the theory of the
+dissolution of complex bodies into the four elements and the theory of the
+reciprocal change of the four elements. As I shall argue, there are impor-
+tant precedents for this argument in Anaximenes and his theory of change.
+I conclude by looking at two anti-Chrysippean Stoic arguments for the
+destructibility of the cosmos at the conflagration.
+Key words: ancient cosmology; material monism; Stoic physics
+Un elemento importante de la física estoica es su teoría de la confla-
+gración o ἐκπύρωσις, un incendio gigante que se apodera del cosmos y
+lo consume por completo1. Al finalizar la conflagración, afirma la teoría,
+ocurre una nueva cosmogonía en la cual el cosmos se regenera enteramente
+y vuelve a cobrar su estado actual. Al final de este nuevo ciclo, sin embar-
+go, ocurre una nueva conflagración, seguida de una nueva reconstitución y
+el mismo proceso se repite paso por paso infinitas veces. Una cuestión que
+debatieron los estoicos es la de si, cada vez que ocurre una conflagración,
+el cosmos es destruído (φθαρῆναι) o ‘muere’ (ἀποθνήσκειν). Según ciertas
+fuentes –recojidas por von Arnim en Stoicorum Veterum Fragmenta (SVF)
+2.585-595– algunos estoicos respondieron afirmativamente. La razón adu-
+cida es que la conflagración no es un simple cambio de estado de un mismo
+sujeto como lo sería, por ejemplo, el de una misma persona que cambia del
+estado de sueño al estado de vigilia. En este proceso, el sujeto del cambio
+–la persona dormida que se despierta– no deja de existir en ningún mo-
+mento y conserva su identidad a lo largo del cambio. Pero esto, sostienen
+dichos estoicos, no sucede en la conflagración. En ella ocurre, más bien,
+un cambio sustantivo en el cual el cosmos deja literalmente de existir du-
+rante un cierto tiempo, a saber, desde que termina la conflagración hasta
+que inicia la nueva cosmogonía. Sin embargo, la postura más importante
+dentro de la escuela estoica fue la de Crisipo, según el cual, al ocurrir una
+conflagración, el cosmos no se destruye: sólo cambia de estado sin nunca
+dejar de existir. Para sustentar esta postura, Crisipo formuló al menos dos
+argumentos. El primero, fundado en la distinción entre alma y cuerpo, es
+1. Para el estudio de las principales fuentes sobre la cosmología estoica véase
+Hahm 1977, Long-Sedley 1987: 274-312, Furley 1999, Frede 2005, Gourinat
+2009, Salles 2005 y 2009, y Boeri-Salles 2014: 377-475.
+© Ediciones Universidad de Salamanca Azafea. Rev. filos. 17, 2015, pp. 33-50ricardo salles
+la doctrina de los cuatro elementos de crisipo: su lugar en la teoría... 35
+recogido por Plutarco en De Stoicorum Repugnantiis 1052C (SVF 2.604,
+LS 46E, BS 18.6).2. El segundo argumento, en cambio, no recurre a la dis-
+tinción entre alma y cuerpo, sino (a) a la doctrina de los elementos, es
+decir, a la teoría sobre la naturaleza de los componentes materiales básicos
+del cosmos, a saber, el fuego, el aire, el agua y la tierra y (b) a la teoría so-
+bre la composición material de los cuerpos que explica cómo los cuerpos
+se componen a partir de los elementos. Este segundo argumento, objeto
+del presente artículo, figura en Eusebio, Praeparatio Evangelica 15.18.1-
+3 (SVF 2.596, LS 46K, BS 18.7). En el primer apartado, empiezo con una
+descripción breve de su funcionamiento. Según intentaré mostrar en los
+apartados 2 y 3, el argumento depende estrechamente de la teoría de los
+elementos que el propio Crisipo desarrolló y que parece tener su origen
+en el presocrático Anaxímenes. Al final, en el cuarto apartado, me referiré
+a dos argumentos que se apartan de Crisipo y que pretenden establecer, en
+su contra, que la conflagración sí implica la destrucción del cosmos.
+1. El argumento de Crisipo a favor de la indestructibilidad del
+cosmos
+El texto de Eusebio en que aparece el argumento de Crisipo es un pasaje
+clasificado por Diels como el fragmento 36 de Ario Dídimo (DG 468, 14-
+469, 6).
+T1: Eusebio, PE 15.18.1-3
+Ἀρέσκει δὲ τοῖς πρεσβυτάτοις τῶν ἀπὸ τῆς αἱρέσεως ταύτης ἐξαιθεροῦσ-
+θαι πάντα, κατὰ περιόδους τινὰς τὰς μεγίστας εἰς πῦρ αἰθερῶδες ἀναλυο-
+μένων πάντων.
+Καὶ ἑξῆς ἐπάγει·
+Ἐκ τούτων δὲ δῆλον ὅτι Χρύσιππος ἐπὶ τῆς οὐσίας οὐ ταύτην παρεί-
+ληφε τὴν σύγχυσιν· ἀδύνατον γάρ· ἀλλὰ τὴν ἀντὶ τῆς μεταβολῆς λεγομένην.
+οὐ γὰρ ἐπὶ τῆς τοῦ κόσμου κατὰ περιόδους τὰς μεγίστας γινομένης φθορᾶς
+κυρίως παραλαμβάνουσι τὴν φθορὰν οἱ τὴν εἰς πῦρ ἀνάλυσιν τῶν ὅλων δογματί-
+ζοντες, ἣν δὴ καλοῦσιν ἐκπύρωσιν, ἀλλ’ ἀντὶ τῆς κατὰ φύσιν μεταβολῆς χρῶνται
+τῇ προσηγορίᾳ τῆς φθορᾶς.
+“Para los miembros más antiguos de esta escuela, es cosa establecida que,
+según ciertos períodos máximos, todas las cosas se vuelven éter al disolverse
+2. Para un estudio pormenorizado de este primer argumento véase Salles 2009.
+© Ediciones Universidad de Salamanca Azafea. Rev. filos. 17, 2015, pp. 33-50ricardo salles
+36 la doctrina de los cuatro elementos de crisipo: su lugar en la teoría...
+todas en fuego etéreo.” Y enseguida [Ario Dídimo] agrega: “a partir de estas
+cosas es manifiesto que Crisipo no ha admitido esta cofusión respecto de la
+substancia (pues esto es imposible), sino la que se llama <‘cofusión’> en vez
+de ‘transformación’. En efecto, en la destrucción periódica del cosmos que se
+produce según períodos máximos, los que sostienen la disolución de todas las
+cosas en fuego (a lo cual, por cierto, llaman ‘conflagración’), no admiten que
+haya una destrucción en sentido estricto, sino que usan el término ‘destruc-
+ción’ en lugar del de ‘transformación natural’”.
+La idea central del pasaje es que, para Crisipo, la disolución del cosmos
+en fuego durante la conflagración no conlleva su destrucción. Cabe notar
+que el texto no define el concepto de destrucción (φθορά) en términos de
+la pérdida de lo que los estoicos suelen llamar la ‘cualidad peculiar’ (ἰδία
+ποιότης) como ocurre en otros textos que también definen este concepto y
+en los cuales se sugiere efectivamente que un individuo X se destruye sólo
+cuando cuando X pierde su cualidad peculiar3. El texto de Eusebio define
+el concepto de destrucción más bien por oposición al de ‘transformación’
+natural (κατὰ φύσιν μεταβολή). Gracias a otras fuentes, sabemos que para los
+estoicos la μεταβολή es un tipo de cambio en el cual su sujeto modifica su
+estado o sus cualidades, sin dejar de existir en ningún momento. Por ejem-
+plo, una de esas fuentes, Galeno, señala que para los estoicos “en efecto, lo
+que se transforma es el sustrato y su transformación ocurre conforme a la
+sucesión de cualidades [en ese sustrato]” (SVF 2.409: τὸ μὲν γὰρ μεταβάλλον
+ἐστὶ τὸ ὑποκείμενον, ἡ μεταβολὴ δὲ αὐτοῦ κατὰ τὴν τῶν ποιοτήτων ἀμοιβὴν
+γίνεται)4. Esta noción de transformación como simple cambio de estado o de
+cualidad (no esencial) implicaría entonces que, de acuerdo con T1, Crisipo
+sostiene que, cuando ocurre la conflagración, el cosmos no deja de exitir
+sino que simplemente cambia de estado o cualidad (no esencial). T1, sin
+embargo, no explica la razones que adujo Crisipo para sostener esta tesis.
+Pero el texto nos proporciona una pista para dar con estas razones: la idea de
+que en la conflagración ‘todas las cosas se disuelven en fuego etéreo’ (εἰς πῦρ
+αἰθερῶδες ἀναλυομένων πάντων). Esto representa una pista valiosa porque,
+como lo apuntan algunas fuentes que examinaremos en el próximo apartado
+y en el apartado tercero, Crisipo desarrolló una teoría muy detallada sobre
+3. Véase por ejemplo Estobeo 118, 14-17 (EK 96, FDS 844, LS 28D, BS 3.6)
+donde, hablando de Posidonio, se define la ‘eliminación’ (ἀναίρεσις) de un individuo,
+término sinónimo de φθορά, como la pérdida de su ‘cualidad propia’ (ἑκάστου
+ποιότης), término sinónimo de ἰδία ποιότης. Véase también la definición de Boeto en
+SVF 3 Boëthus Sidonius 7 (BS 18.12).
+4. Cf. SVF 2.318 (BS 14.3) y 2.324.
+© Ediciones Universidad de Salamanca Azafea. Rev. filos. 17, 2015, pp. 33-50ricardo salles
+la doctrina de los cuatro elementos de crisipo: su lugar en la teoría... 37
+la composición material de los cuerpos en la cual el concepto de disolución
+(ἀνάλυσις) cumple una función técnica central. Según esta teoría, todos los
+cuerpos, incluyendo el cosmos en su totalidad, están enteramente compues-
+tos de fuego comprimido. La ‘disolución’ en fuego de un cuerpo correspon-
+de el proceso mediante el cual la masa de fuego que constituye a ese cuerpo
+se expande: antes de la disolución, el fuego se halla comprimido y, una vez
+terminada, el fuego recobra el aspecto y las propiedades del fuego ordinario.
+En este proceso, sostiene la teoría, lo único que se pierde es el estado mismo
+de compresión del fuego. En esa medida, al ocurrir la conflagración, el fuego
+que constituye al cosmos sólo sufre un cambio de estado. De esta conclusión
+por sí sola no se sigue que, por lo tanto, al ocurrir la conflagración, el cosmos
+mismo sólo cambia de estado como lo afirma el argumento de Crisipo en T1.
+Para alcanzar esta conclusión es preciso sostener, además, que la identidad
+del cosmos depende enteramente de su composición material. Esta tesis adi-
+cional también se encuentra Crisipo. Según veremos en el cuarto apartado,
+él argumenta en el contexto de su cosmología que lo que fija la identidad del
+cosmos es aquello de lo cual está compuesto y, en concreto, que el cosmos es
+su fuego constitutivo. Es sólo a través de la conjunción de todas estas ideas
+que podemos entender cabalmente el argumento de Crisipo a favor de la
+indestructibilidad del cosmos en T1.
+2. Disolución y teoría de elementos
+La teoría de Crisipo acerca de la composición material de los cuerpos
+forma parte de su doctrina de los elementos. La principal fuente sobre esta
+teoría es un pasaje que aparece en las páginas 129 y 130 del tomo primero de
+la Antología de Estobeo, que Diels clasifica como el fragmento 21 de Ario
+Dídimo y que von Arnim incluye en SVF 2.413 (LS 47A, BS 15.4). El pasaje
+ha sido muy discutido por los estudiosos recientes de la física estoica, pues
+plantea diversos problemas filológicos que dificultan su interpretación5. En
+este artículo, no pretendo ofrecer una interpretación global del pasaje, tarea
+a la que me dedico en otro trabajo6. Aquí me limitaré únicamente destacar
+algunas de las ideas generales que éste desarrolla sobre cómo, según Crisipo,
+todo cuerpo es susceptible de disolverse en fuego.
+5. Véase Diels 1899: 38-39, Bréhier 1951: 138 n. 1, Gould 1970: 119-120,
+Lapidge 1973: 271, Long-Sedley 1987: 2.278, Cooper 2009: 94-95 y 95 n. 6 y
+Boeri-Salles 2014: 384-385 y 387-389.
+6. Véase (...).
+© Ediciones Universidad de Salamanca Azafea. Rev. filos. 17, 2015, pp. 33-50ricardo salles
+38 la doctrina de los cuatro elementos de crisipo: su lugar en la teoría...
+De acuerdo con la teoría de los elementos que Ario Dídimo atribuye a
+Crisipo en este texto, todo cuerpo es susceptible de ‘disolverse’ (ἀναλύεσθαι,
+διαλύεσθαι) en fuego mediante uno o dos procesos sucesivos dependiendo
+de si el cuerpo que se disuelve es elemental o no-elemental. Los cuerpos no-
+elementales son, de acuerdo con los estoicos, aquellos que se generan por la
+mixtura de dos o más de los cuatro elementos básicos, es decir, fuego, aire,
+agua o tierra. La disolución en fuego de estos cuerpos no-elementales invo-
+lucra dos procesos. En primer lugar, cuando son expuestos a una fuente de
+calor intenso, dichos cuerpos se descomponen en porciones de los elementos
+de los cuales están compuestos. Por ejemplo, supongamos que un cuerpo no-
+elemental C está compuesto de la mixtura de dos porciones de fuego, dos de
+aire, tres de agua y cinco de tierra. Pues bien, la primera etapa de la disolución
+en fuego de este cuerpo C consiste precisamente en la descomposición de C
+en esas doce porciones de los cuatro elementos. El resultado es simplemente
+dos porciones de fuego, dos de aire, tres de agua y cinco de tierra. Al concluir
+esta etapa empieza la segunda, la cual consiste en un proceso distinto, en el cual
+las porciones de aire, agua y tierra ya obtenidas se expanden y se convierten
+en fuego. Es importante notar que, según Crisipo, esta expansión no es, ella
+misma, una descomposición análoga a la de la primera etapa: las masas de aire,
+agua y tierra que se obtienen en la primera etapa no se descomponen a su vez
+en algo más básico, sino que simplemente aumentan su volumen y, al hacerlo,
+se convierten en fuego. Estos dos procesos sucesivos, de descomposión prime-
+ro y de expansión después, explican cómo un cuerpo no-elemental es disuelto
+en fuego. En cambio, lo que explica que cuerpos elementales como el aire, el
+agua y la tierra puedan disolverse en fuego es simplemente su expansión. En su
+caso, no se requiere una descomposición previa en cuerpos elementales, pues
+el aire, el agua y la tierra ya son, ellos mismos, elementales.
+Esta teoría descansa sobre una concepción de los cuatro elementos según
+la cual los cuatro elementos tienen distintas densidades y se transforman los
+unos en los otros por un cambio de volumen. Como veremos en un instan-
+te, dentro de este esquema el fuego ocupa un lugar privilegiado. El fuego es
+aquello a partir de lo cual los otros tres elementos se generan por contracción,
+es decir, por una disminución de su volumen, y el fuego es también aquello
+en lo cual el aire, el agua y la tierra se transforman cuando vuelve a expandirse
+el fuego comprimido que los constituye. Por ejemplo, cuando una masa F de
+fuego se contrae, F se transforma en una masa de aire. Si F se contrae aún más,
+se transforma en una masa de agua. Y si, a partir de ese punto, F se contrae
+aún más, se transforma en una masa de tierra. De manera inversa, si al haber
+alcanzado este alto grado de contracción, F se expande hasta cierto punto, se
+transforma primero en una masa de agua. Si se expande más, se transforma
+© Ediciones Universidad de Salamanca Azafea. Rev. filos. 17, 2015, pp. 33-50ricardo salles
+la doctrina de los cuatro elementos de crisipo: su lugar en la teoría... 39
+en una masa de aire. Y si se expande aún más, F vuelve a transformarse en
+la masa ordinaria de fuego que era al principio. Veamos la parte del texto de
+Estobeo donde aparece este idea.
+T2: Estobeo, Ecl. 1.129, 15-21
+κατὰ μὲν τὸν λόγον τοῦτον
+αὐτοτελῶς λεγομένου τοῦ πυρὸς στοιχείου· οὐ μετ’ ἄλλου
+γάρ· κατὰ δὲ τὸν πρότερον καὶ μετ’ ἄλλων συστατικὸν
+εἶναι, πρώτης μὲν γιγνομένης τῆς ἐκ πυρὸς κατὰ σύστα-
+σιν εἰς ἀέρα μεταβολῆς, δευτέρας δ’ ἀπὸ τούτου εἰς ὕδωρ,
+τρίτης δ’ ἔτι μᾶλλον κατὰ τὸ ἀνάλογον συνισταμένου τοῦ
+ὕδατος εἰς γῆν.
+Si bien de acuerdo con esta definición se dice que el fuego es perfectamen-
+te elemental –en efecto, no se da junto con otro– según la definición anterior
+también es constitutivo junto con los otros, pues la primera transformación
+que se produce es del fuego, por condensación, en aire; la segunda, de éste
+en agua; y la tercera, por analogía, en tierra al condensarse en mayor medida
+el agua.
+La idea de que el aire, el agua y la tierra son efectivamente fuego compri-
+mido es una consecuencia necesaria de lo que se afirma en estas líneas. Esto
+es así por dos razones. La primera es que el texto indica claramente que es
+por expansión que el fuego se transforma en aire por expansión, que el aire se
+transforma en agua y que el agua se transforma en tierra. Por lo tanto, a menos
+que al contraerse el fuego deje de ser fuego, de esto se sigue que el aire es fue-
+go comprimido. Pero si el aire es fuego comprimido, entonces por analogía,
+el agua también sería aire comprimido y la tierra también agua comprimida.
+Pero si esto es así, entonces por transitividad, se sigue que el agua y la tierra
+serían, ellos también, fuego comprimido. La segunda razón es de carácter fi-
+lológico: no se afirmar en ninguna parte del texto que el fuego deje de ser
+fuego al contraerse. Al contrario, se sugiere que el fuego sigue siendo fuego a
+lo largo de sus transformaciones. Consideremos, por ejemplo, la oración en la
+línea 129, 20-21: ‘el tercer [cambio por compresión ocurre] cuando, por ana-
+logía, el agua se comprime aún más en tierra’. Aparentemente, esto significaría
+que para Crisipo el cuerpo que se transforma en tierra no es fuego, sino agua
+pues es el agua, nos dice el texto, la que ‘se comprime aún más en tierra’. Pero
+ésta no puede ser la idea original de Crisipo. De hecho, si quisiéramos inter-
+pretarla literalmente, sería difícil entender la tesis de que el agua se comprime
+‘en mayor medida’ (ἔτι μᾶλλον). En efecto, el agua sólo podría contraerse ‘en
+© Ediciones Universidad de Salamanca Azafea. Rev. filos. 17, 2015, pp. 33-50ricardo salles
+40 la doctrina de los cuatro elementos de crisipo: su lugar en la teoría...
+mayor medida’ en este tercer cambio si, en los cambios anteriores, ya se hu-
+biera contraído. Pero el problema es que el agua se genera al término del se-
+gundo cambio: antes de ese cambio, el agua no existía. Por lo tanto, el primer
+y el segundo cambio no pueden ser una contracción del agua.
+En vista de este problema filológico que plantea la interpretación de la
+oración de la línea 129, 20-21 del texto, cabe concluir que esa oración es un
+disparate lógico si se la interpreta literalmente y hay que evitar interpretarla
+de eso modo. De hecho, la idea original de Crisipo pudo haber sido muy dis-
+tinta. Una hipótesis es justamente que, para él, cuando el agua se transforma
+en tierra, lo que sucede en realidad es que existe un cuerpo, distinto del agua,
+que se comprime más de lo que se ha comprimido en los cambios anteriores y
+es la compresión de este cuerpo la que genera la tierra. Por lo tanto, dado que
+el fuego es el cuerpo que se comprimió en los dos cambios anteriores, debe
+ser fuego el cuerpo que, al comprimirse, genera la tierra. Y de esto, claro, se
+sigue que la tierra, al igual que el aire y el agua, es fuego comprimido. Lo mis-
+mo se aplicaría, mutatis mutandis, a los cuerpos no-elementales y al cosmos
+en su totalidad. Según Crisipo, los cuerpos no-elementales, están compuesto
+de distintas porciones de fuego, aire, agua y tierra. Pero dado que ese aire,
+esa agua y esa tierra son, ellos, fuego comprimido, todo cuerpo no-elemental
+está compuesto, en última instancia, de diversas masas de fuego dotadas de
+diversos grados de compresión. En esa medida, todo cuerpo no-elemental
+está, él también, compuesto de una gran masa de fuego comprimido.
+3. Anaxímenes y Crisipo
+La tesis de Crisipo de que todo cuerpo está hecho de fuego comprimido
+tiene un antecedente importante en Anaxímenes. La teoría de los elementos de
+Anaxímenes aparece en los textos 13B1 y 13A5-9 en la numeración de Diels.
+Cito a continuación el testimonio de Simplicio, el más detallado de todos.
+T3: Simplicio, in Phys. 24, 26-25, 1 (DK 13A5)
+Ἀναξιμένης δὲ Εὐρυστράτου Μιλήσιος, ἑταῖρος γεγονὼς Ἀναξιμάνδρου, μίαν
+μὲν καὶ αὐτὸς τὴν ὑποκειμένην φύσιν καὶ ἄπειρόν φησιν ὥσπερ ἐκεῖνος,
+οὐκ ἀόριστον δὲ ὥσπερ ἐκεῖνος, ἀλλὰ ὡρισμένην, ἀέρα λέγων αὐτήν· δια-
+φέρειν δὲ μανότητι καὶ πυκνότητι κατὰ τὰς οὐσίας. καὶ ἀραιούμενον μὲν πῦρ
+γίνεσθαι, πυκνούμενον δὲ ἄνεμον, εἶτα νέφος, ἔτι δὲ μᾶλλον ὕδωρ, εἶτα γῆν,
+εἶτα λίθους, τὰ δὲ ἄλλα ἐκ τούτων. κίνησιν δὲ καὶ οὗτος ἀίδιον ποιεῖ, δι’ ἣν
+καὶ τὴν μεταβολὴν γίνεσθαι.
+© Ediciones Universidad de Salamanca Azafea. Rev. filos. 17, 2015, pp. 33-50ricardo salles
+la doctrina de los cuatro elementos de crisipo: su lugar en la teoría... 41
+Anaxímenes, hijo de Eurístrato, de Mileto, compañero de Anaximandro,
+también dice, como él, que la naturaleza que subyace es una e infinita, pero no
+indeterminada como Anaximandro dijo, sino determinada, pues la identifica
+con el aire y difiere en su naturaleza substancial por rareza y densidad. Al ra-
+refacerse se vuelve fuego, al espesarse se vuelve viento y después nube y, en en-
+seguida (al espesarse aún más) agua, luego tierra luego piedras, y el resto de las
+cosas se generan a partir de éstos. Él también hace del movimiento algo eterno
+y dice que el cambio también se genera a través de él. [Trad. Eggers Lan - Juliá]
+Al gual que en Crisipo, en Anaxímenes la transformación recíproca de
+los elementos se da por contracción y expansión, aunque la terminología
+de Anaxímenes es ligeramente distinta. En lugar del término del término de
+σύστασις que hallamos en Crisipo y que traduje como ‘condensación’, Anaxí-
+menes emplea el término de πυκνότης que debe traducirse como ‘espesamien-
+to’. Y en lugar del término de διάχυσις usado por Crisipo y que traduje como
+‘dispersión’, Anaxímenes emplea el término de μανότης que debe traducirse
+como ‘rarefacción’. Pero se trata de diferencias terminológicas que son, hasta
+cierto punto, menores. Asimismo, la lista de los elementos en Anaxímenes
+aquí no es la lista estándar de los cuatro elementos que aparece en Crisipo
+y que parece provenir de Empédocles, a saber el fuego, el aire, el agua y la
+tierra7. La lista de Anaxímenes incluye, además, el viento, la nube y la piedra.
+Sin embargo, éstos no parecen ser nuevos elementos, sino etapas en la trans-
+formación de los cuatro elementos básicos. El viento y la nube son formas que
+adquiere el aire cuando se está transformando en agua. La piedra es, a su vez,
+una forma que puede tomar la piedra cuando interviene en la composición
+de ciertos compuestos más complejos. Ahora bien, hay pruebas claras dentro
+de este pasaje de que uno de los cuatro elementos básicos es más básico que
+los otros tres, a saber, el aire. En efecto, los otros tres parecen ser resultados
+de cambios en el volumen del aire. Consideremos por ejemplo la oración ‘al
+rarefacerse se vuelve fuego, al espesarse se vuelve viento y después nube y, en
+enseguida (al espesarse aún más) agua, luego tierra luego piedras, y el resto
+de las cosas se generan a partir de éstos’ (καὶ ἀραιούμενον μὲν πῦρ γίνεσθαι,
+πυκνούμενον δὲ ἄνεμον, εἶτα νέφος, ἔτι δὲ μᾶλλον ὕδωρ, εἶτα γῆν, εἶτα λίθους, τὰ
+δὲ ἄλλα ἐκ τούτων). En esta oración, el sujeto de ἀραιούμενον y de γίνεσθαι es,
+sin duda alguna, el aire que aparece en la oración anterior a través del acusati-
+vo ἀέρα. Es el aire lo que se transforma en fuego por expansión o rarefacción.
+Pero, si esto es así, entonces, la estructura gramatical de la oración implica
+que el aire también debe ser el sujeto de πυκνούμενον: el aire nuevamente es el
+7. Cf. DK 31A33, 31A37, 31B6.
+© Ediciones Universidad de Salamanca Azafea. Rev. filos. 17, 2015, pp. 33-50ricardo salles
+42 la doctrina de los cuatro elementos de crisipo: su lugar en la teoría...
+que se transforma por contracción, o espesamiento, en viento, nube, agua,
+tierra y piedras. Podemos observar la misma estructura gramatical en al me-
+nos dos de las otras cinco fuentes en que aparece esta teoría de Anaxímenes:
+13A7-8. Por consiguiente, el aire es el sujeto de todos los cambios descritos
+en T3. Y de esto se sigue que, según Anaxímenes, el fuego, el viento, la nube,
+el agua, la tierra y las piedras no son otra cosa sino distintas formas de aire.
+Anaxímenes y Crisipo coinciden en un idea fundamental. De acuerdo con
+ambos, existe un elemento único que, al cambiar de volumen, genera a los
+otros tres y los otros son simplemente formas de ese elemento básico. Anaxí-
+menes y Crisipo sólo difieren el uno del otro en la manera cómo identifican
+ese elemento. De acuerdo con Crisipo, es el fuego. De acuerdo con Anaxí-
+menes, en cambio, es el aire.
+Para definir mejor el monismo de Anaxímenes y Crisipo conviene marcar
+un contraste entre su monismo y la teoría opuesta al monismo, según la cual,
+ninguno de los cuatro elementos constituye a los otros tres. Existen distintas
+versiones de esta teoría anti-monista en la filosofía antigua. Dos ejemplos,
+son la teoría propuesta por Anaxágoras en DK 59B16 y la propuesta por
+Heráclito en DK 22B30, 22B31A-B, 22B76 y 22B90. En Anaxágoras, si bien
+los cuatro elementos son susceptibles de transformarse los unos en los otros,
+no es claro que alguno de ellos sea el componente material de los otros tres
+como ocurre en Anaxímenes y Crisipo8. En Heráclito, ocurre lo mismo. En
+particular, DK 22B76 sugiere que cuando un elemento se transforma en otro
+y, en particular, que cuando el fuego se transforma en aire, el primero se des-
+truye (‘la muerte del fuego es nacimiento para el aire y la mierte del aire es
+nacimiento para el agua’: πυρὸς θάνατος ἀέρι γένεσις, καὶ ἀέρος θάνατος ὕδατι
+γένεσις). Contrariamente a lo que suponen Anaxímenes y Crisipo, para He-
+ráclito la transformación de un elemento en otro es un cambio sustantivo en
+que el elemento que se transforma no persiste9. Pero la teoría anti-monista en
+8. Al respecto, véase Graham 2003: 329.
+9. Para esta línea de interpretación de Heráclito, cf. Graham 1997: 12-24. Cf. Zeller-
+Mondolfo 1961: 49-50: “Un continuo succedersi di squilibri, che continuamente si
+invertono, è precisamente per Eraclito l’incessante trapasso dall’uno all’altro opposto
+che costituisce il processo universale della realtà (divenire), il quale mancherebbe
+nel mantenimento costante del l’equilibrio.Kirk insiste nel porre l’accento sulla
+conservazione costante della misura e dell’equilibrio anche nelle cose singole, per
+fondarvi la sua tesi della conservazione perenne del cosmo ed escludere dalla dottrina
+eraclitea l’idea della conflagrazione periodiea o vicenda ciclica di formazione e
+distruzione del mondo. Ma, come s’è detto, non gli sfugge d’altra parte che se Eraclito
+non avesse ammesso il cambiare e perire anche per le cose apparentemente stabili
+(montagne, rocce, etc.), avrebbe negato in esse la palintonos harmonie che assicura la
+© Ediciones Universidad de Salamanca Azafea. Rev. filos. 17, 2015, pp. 33-50ricardo salles
+la doctrina de los cuatro elementos de crisipo: su lugar en la teoría... 43
+la cual deseo detenerme es la que propone Timeo, el personaje de Platón, en
+Timeo 49B7-50A4.
+T4: Platón, Tim. 49b7-50a4
+πρῶτον μέν, ὃ δὴ νῦν ὕδωρ
+ὠνομάκαμεν, πηγνύμενον ὡς δοκοῦμεν λίθους καὶ γῆν γιγνό-
+μενον ὁρῶμεν, τηκόμενον δὲ καὶ διακρινόμενον αὖ ταὐτὸν
+τοῦτο πνεῦμα καὶ ἀέρα, συγκαυθέντα δὲ ἀέρα πῦρ, ἀνάπαλιν
+δὲ συγκριθὲν καὶ κατασβεσθὲν εἰς ἰδέαν τε ἀπιὸν αὖθις ἀέρος
+πῦρ, καὶ πάλιν ἀέρα συνιόντα καὶ πυκνούμενον νέφος καὶ
+ὁμίχλην, ἐκ δὲ τούτων ἔτι μᾶλλον συμπιλουμένων ῥέον ὕδωρ,
+ἐξ ὕδατος δὲ γῆν καὶ λίθους αὖθις, κύκλον τε οὕτω διαδιδόντα
+εἰς ἄλληλα, ὡς φαίνεται, τὴν γένεσιν. οὕτω δὴ τούτων οὐδέ-
+ποτε τῶν αὐτῶν ἑκάστων φανταζομένων, ποῖον αὐτῶν ὡς
+ὂν ὁτιοῦν τοῦτο καὶ οὐκ ἄλλο παγίως διισχυριζόμενος οὐκ
+αἰσχυνεῖταί τις ἑαυτόν; οὐκ ἔστιν, ἀλλ’ ἀσφαλέστατα μακρῷ
+περὶ τούτων τιθεμένους ὧδε λέγειν· ἀεὶ ὃ καθορῶμεν ἄλλοτε
+ἄλλῃ γιγνόμενον, ὡς πῦρ, μὴ τοῦτο ἀλλὰ τὸ τοιοῦτον ἑκά-
+στοτε προσαγορεύειν [πῦρ], μηδὲ ὕδωρ τοῦτο ἀλλὰ τὸ τοιοῦτον
+ἀεί, μηδὲ ἄλλο ποτὲ μηδὲν ὥς τινα ἔχον βεβαιότητα, ὅσα
+δεικνύντες τῷ ῥήματι τῷ τόδε καὶ τοῦτο προσχρώμενοι
+δηλοῦν ἡγούμεθά τι· φεύγει γὰρ οὐχ ὑπομένον τὴν τοῦ τόδε
+καὶ τοῦτο καὶ τὴν τῷδε καὶ πᾶσαν ὅση μόνιμα ὡς ὄντα
+αὐτὰ ἐνδείκνυται φάσις. ἀλλὰ ταῦτα μὲν ἕκαστα μὴ λέγειν,
+τὸ δὲ τοιοῦτον ἀεὶ περιφερόμενον ὅμοιον ἑκάστου πέρι καὶ
+συμπάντων οὕτω καλεῖν, καὶ δὴ καὶ πῦρ τὸ διὰ παντὸς
+τοιοῦτον, καὶ ἅπαν ὅσονπερ ἂν ἔχῃ γένεσιν· ἐν ᾧ δὲ ἐγγιγνό-
+μενα ἀεὶ ἕκαστα αὐτῶν φαντάζεται καὶ πάλιν ἐκεῖθεν ἀπόλ-
+λυται, μόνον ἐκεῖνο αὖ προσαγορεύειν τῷ τε τοῦτο καὶ τῷ
+τόδε προσχρωμένους ὀνόματι, τὸ δὲ ὁποιονοῦν τι, θερμὸν
+ἢ λευκὸν ἢ καὶ ὁτιοῦν τῶν ἐναντίων, καὶ πάνθ’ ὅσα ἐκ
+τούτων, μηδὲν ἐκεῖνο αὖ τούτων καλεῖν.
+En primera instancia, tomemos lo que acabamos de denominar agua. Vemos
+que cuando se solidifica, así creemos, se convierte en piedras y tierras, pero cuando
+continuità della tramutazione fra gli opposti. Il che equivale a riconoscere non solo
+che in ogni essere, sia il fuoco universale sia qualsiasi cosa particolare, Eraclito vedeva
+la presenza e l’azione di tensioniopposte che ne fanno un divergente convergente, ma
+altresi che appunto queste tensioni opposte determinano necessariamentein tutte
+le cose l’ininterrotto (anche se lento e graduale) trapasso da un contrario all’altro”.
+Estoy agradecido con Marcelo Boeri por esta referencia.
+© Ediciones Universidad de Salamanca Azafea. Rev. filos. 17, 2015, pp. 33-50ricardo salles
+44 la doctrina de los cuatro elementos de crisipo: su lugar en la teoría...
+se disuelve y separa, se convierte en viento y aire, y el aire, cuando se quema, en
+fuego, y el fuego se vuelve a combinar, se apaga y retorna a la forma del aire, y el
+aire torna a reunirse y condensarse en nube y niebla y de éstas, que se concentran
+todavía más, fluye el agua; del agua, nuevamente tierra y piedras y así, como pare-
+ce, se dan nacimiento en ciclo unos a otros. Por cierto, si ninguno de éstos se ma-
+nifiesta nunca de la misma manera, ¿cómo no podría en ridículo quien afirmara sin
+reservas que cualquiera de ellos es éste y no otro? Imposible; es mucho más seguro
+hablar acerca de ellos suponiendo lo siguiente: cuando vemos que algo se convierte
+permanentemente en otra cosa, por ejemplo el fuego, no hay que denominarlo en
+toda ocasión ‘este’ <fuego>, sino siempre ‘lo que posee tal cualidad’ y no ‘este’
+agua, sino siempre ‘lo que posee tal característica’, ni hay que tratar jamás nada de
+aquello para lo que utilizamos los términos ‘eso’ y ‘esto’ para su designación, en la
+creencia de que mostramos algo, como si poseyera alguna estabilidad, puesto que
+lo que no permanece rehúye la aseveración del ‘eso’ y el ‘esto’ y la del ‘para esto’
+y toda aquella que lo designe como si tuviera una cierta permanencia. Pero si bien
+no es posible llamar a cada uno de ellos ‘esto’, lo que tiene tales características y
+permanece siempre semejante en el ciclo de las mutaciones puede ser denominado
+según las cualidades que posee, y así es fuego todo lo que posee en todo momento
+tal rasgo e, igualmente, todo lo generado. Sólo aquello en lo que continuamente
+aparece cada uno de ellos al nacer y en lo que nuevamente desaparece, debe ser
+nombrado por medio de ‘esto’ y ‘eso’, pero a nada de lo que tiene alguna cualidad,
+calor o blancura o cualquiera de los contrarios y todo lo que proviene de éstos, se
+le puede aplicar la denomación de ‘aquello’. [Trad. Lisi]
+La teoría de Timeo presupone, al igual que las de Anaxímenes y de Crisipo,
+que los cuatro elementos se transforman el uno en el otro y que uno de ellos
+–aparentemente el agua– es de cierto modo más básico que los otros tres. Pero
+sea cual fuere ese modo, evidentemente no se trata del modo en que el aire o
+el fuego son más básicos según Anaxímenes o Crisipo. En efecto, un aspecto
+crucial de la teoría que aparece en T4 es que ninguno de los cuatro elementos
+es un ‘esto’, es decir, algo definido. El significado exacto de esta doctrina ha
+sido objeto de discusión entre los estudiosos de Platón. 10 Pero, bajo cualquier
+interpretación, la teoría sugiere que, cuando una porción de agua se trans-
+forma en aire por expansión o en tierra por compresión, se convierte en algo
+indefinido que ya no es agua. Por consiguiente, hay una diferencia profunda
+entre, por un lado, la teoría de Timeo y, por otro, las teorías de Anaxímenes y
+Crisipo. En la de Timeo, no hay un elemento más básico que los otros tres en
+el sentido fuerte de que los otros tres son formas expandidas o comprimidas
+de ese elemento. En cambio, en las teorías de Anaxímenes y de Crisipo, hay
+10. Para una recapitulación y evaluación de las principales posturas sobre este
+problema, cf. Johansen, 2004: 92-136.
+© Ediciones Universidad de Salamanca Azafea. Rev. filos. 17, 2015, pp. 33-50ricardo salles
+la doctrina de los cuatro elementos de crisipo: su lugar en la teoría... 45
+un elemento más básico que los otros tres justamente en el sentido de que
+los otros tres son formas expandidas o comprimidas de ese elemento. Más
+adelante en el diálogo (50A-C), Timeo argumenta que, si bien ninguno de los
+cuatro elementos constituye a los otros tres, existe un cuerpo más básico que
+los cuatro elementos del cual ellos cuatro– así como todos los demás cuer-
+pos– están materialmente compuestos de manera. Cuando los elementos se
+transforman los unos en los otros, lo que ocurre realmente es que ese cuerpo
+cambia de forma, de manera análoga, explica Timeo, en que una masa de oro
+puede ir cambiando de forma cuando alguien está modelando todo tipo de
+figuras a partir de ella. Ese cuerpo absolutamente básico es identificado por
+Timeo como la ‘naturaleza que acoge a todos los cuerpos’ (50B6: τῆς τὰ πάντα
+δεχομένης σώματα φύσεως) y, más generalmente, como el ‘receptáculo’ (49A6,
+51A5, 73A3: ὑποδοχή). Sin embargo, en esta teoría del receptáculo del Timeo
+no hay indicio alguno de que ese cuerpo absolutamente básico sea algo en lo
+cual los elementos que se constituyen a partir de él puedan transformarse,
+como sucede con el fuego en Crisipo o el aire en Anaxímenes. En la teoría
+del Timeo, el receptáculo no es el resultado de ningún cambio, como puede
+ocurrir con el fuego de Crisipo o el aire de Anaxímenes, sino simplemente el
+sustrato material de todo cambio. Esta diferencia, aparentemente muy sutil,
+es de crucial importancia en la teoría de la conflagración de Crisipo, pues la
+conflagración es justamente un proceso de transformación del aire, el agua y
+la tierra en fuego.
+4. El problema de la identidad del cosmos
+Hasta aquí hemos visto que en la teoría elemental de Crisipo el fuego
+es más básico que los otros tres elementos en el sentido de que el aire, el
+agua y la tierra son masas de fuego comprimido. Lo mismo se aplicaría,
+mutatis mutandis, a los cuerpos no-elementales y al cosmos en su totalidad.
+Según lo apuntamos en el apartado 2, Crisipo sostiene que los cuerpos no-
+elementales están compuesto de distintas porciones de fuego, aire, agua y
+tierra. Pero dado que ese aire, esa agua y esa tierra son fuego comprimido,
+todo cuerpo no-elemental está compuesto, en última instancia, de diversas
+masas de fuego dotadas de diversos grados de compresión. En esa medida,
+todo cuerpo no-elemental está, él también, compuesto de una gran masa de
+fuego comprimido.
+Ahora bien ¿qué razones hay para atribuirle a Crisipo la tesis de que el
+fuego constitutivo del cosmos es lo que fija identidad del cosmos? Sin esa
+tesis el argumento de Crisipo a favor de la indestructibilidad del cosmos no
+© Ediciones Universidad de Salamanca Azafea. Rev. filos. 17, 2015, pp. 33-50ricardo salles
+46 la doctrina de los cuatro elementos de crisipo: su lugar en la teoría...
+funciona, pues se sigue de que la conflagración sea un mera cambio de estado
+del fuego constitutivo del cosmos la conclusión de que en la conflagración
+el cosmos mismo sólo cambia de estado si suponemos que el cosmos es su
+elemento constitutivo. De hecho, como veremos a continuación, hubo cier-
+ta polémica al interior de la escuela estoica respecto de cuál es la verdadera
+identidad del cosmos y, dentro de esa polémica, una de la posturas es preci-
+samente la de que el cosmos es su fuego constitutivo. Una de las principales
+fuentes respecto de esta polémica aparece en Diógenes Laercio.
+T5: DL 7.137 (SVF 2.526, LS 44F, BS 12.3)
+Λέγουσι δὲ κόσμον τριχῶς· αὐτόν τε τὸν θεὸν τὸν ἐκ τῆς
+ἁπάσης οὐσίας ἰδίως ποιόν, ὃς δὴ ἄφθαρτός ἐστι καὶ ἀγένητος,
+δημιουργὸς ὢν τῆς διακοσμήσεως, κατὰ χρόνων ποιὰς περιόδους
+ἀναλίσκων εἰς ἑαυτὸν τὴν ἅπασαν οὐσίαν καὶ πάλιν ἐξ ἑαυτοῦ
+γεννῶν· καὶ αὐτὴν δὲ τὴν διακόσμησιν τῶν ἀστέρων κόσμον
+εἶναι λέγουσι· καὶ τρίτον τὸ συνεστηκὸς ἐξ ἀμφοῖν.
+Aplican el término ‘cosmos’ de tres maneras: <el cosmos es> dios mismo,
+individualmente cualificado a partir de toda la substancia, indestructible e in-
+generable al ser el demiurgo de la ordenación cósmica y, según ciertos lap-
+sos de tiempo cualitativamente determinados, al absorber en sí mismo toda la
+substancia y generarla nuevamente a partir de sí mismo; asimismo dicen que el
+cosmos es la ordenación misma de los astros y, en tercer lugar, <que es> es lo
+compuesto de ambos.
+El texto atribuye a los estoicos tres sentidos, o usos, del término ‘cosmos’.
+La diferencia entre estos sentidos radica en cómo cada uno de ellos define
+qué es el cosmos. El primer sentido es el que aquí más me interesa. De acuer-
+do con él, el cosmos es el cuerpo –identificado con dios– que se constituye
+a partir de la totalidad de la substancia. Más específicamente, es el cuerpo en
+el cual todas las cosas se absorben y a partir del cual todas se generan. No
+cabe duda que tal cuerpo es el fuego, pues como ya lo apuntamos, el fuego es
+precisamente aquello que absorbe a todo lo que existe en el mundo sublunar
+y aquello a partir de lo cual todas ellas vuelven a generarse. Pero, como aca-
+bamos de ver en el apartado anterior, el cosmos está constituido de fuego y
+lo que ocurre durante la conflagración es sencillamente un cambio de estado
+de ese fuego. Por consiguiente, T5 es una prueba de que aquellos estoicos
+que favorecieron el primer sentido de ‘cosmos’ sostenían que la identidad del
+cosmos radica en su fuego constitutivo. Aunque T5 no asocia este sentido
+de cosmos con Crisipo, hay buenas razones para pensar que él fue uno de los
+© Ediciones Universidad de Salamanca Azafea. Rev. filos. 17, 2015, pp. 33-50ricardo salles
+la doctrina de los cuatro elementos de crisipo: su lugar en la teoría... 47
+estoicos que favorecieron ese primer sentido. De hecho, el propio Diógenes
+Laercio argumenta poco después del pasaje citado en T5 que para Crisipo el
+fuego celeste –que es de la misma naturaleza que el fuego ordinario y la úni-
+ca diferencia entre ambos es que el primero es más sutil– es la parte rectora
+del alma del cosmos. 11 Esta tesis presupone la identidad entre el cosmos y
+su fuego constitutivo porque, según lo sugieren otras fuentes, los estoicos
+sostienen que la identidad de un ser animado racional, como lo es el cosmos,
+radica en precisamente en su alma12.
+Quiero concluir esta trabajo con una referencia breve a dos argumentos
+estoicos contrapuestos al argumento de Crisipo de la indestructibilidad del
+cosmos. El primero de ellos se refiere justamente al problema de la identidad
+del cosmos. El argumento está implícito en el segundo sentido de ‘cosmos’
+que se presenta en T5. De acuerdo con el texto, en el segundo sentido de
+‘cosmos’, el cosmos no se identifica con el fuego, como ocurre en el primer
+sentido, sino con el ordenamiento cósmico o διακόσμησις. El texto no indica
+qué se entiende aquí por ‘ordenamiento’, pero en todo caso debe tratarse de
+algo que fija la identidad del cosmos y que se pierde cuando todas las cosas
+se absorben o disuelven en fuego. El argumento sería entonces que, dado
+que la identidad del cosmos se fija por su ordenamiento y dado que su or-
+denamiento deja de existir cuando todas las cosas se absorben en fuego, se
+sigue que el cosmos se destruye cuando ocurre la conflagración. El segundo
+argumento contra Crisipo al que quisiera referirme aparece en el texto que
+cito a continuación.
+11. Cf. DL 7.139: “Crisipo en el [libro] primero de Sobre la providencia y
+Posidonio en Sobre los dioses afirman que el cielo es la parte rectora del cosmos,
+pero Cleantes que es el sol. En realidad, Crisipo, apartándose de lo anterior [afirma
+que la parte rectora del cosmos es] la parte más pura del éter que hay en eso mismo
+que él llama, “dios primero”, <el cual>, de modo sensible, se difunde a través de las
+cosas que hay en el aire y a través de todos los animales y <de manera física a través
+de> las plantas, mientras que, a través de la tierra misma, [dios se difunde] según la
+disposición” (Χρύσιππος δ’ ἐν τῷ πρώτῳ Περὶ προνοίας καὶ Ποσειδώνιος ἐν τῷ Περὶ θεῶν
+τὸν οὐρανόν φασι τὸ ἡγεμονικὸν τοῦ κόσμου, Κλεάνθης δὲ τὸν ἥλιον. ὁ μέντοι Χρύσιππος
+διαφορώτερον πάλιν τὸ καθαρώτατον τοῦ αἰθέρος ἐν ταὐτῷ, ὃ καὶ πρῶτον θεὸν λέγει· <ὃν>
+αἰσθητικῶς ὥσπερ κεχωρηκέναι διὰ τῶν ἐν ἀέρι καὶ διὰ τῶν ζῴων ἁπάντων καὶ <φυσικῶς
+διὰ τῶν> φυτῶν· διὰ δὲ τῆς γῆς αὐτῆς καθ’ ἕξιν).
+12. Véase por ejemplo Eusebio PE 15. 20. 6 (SVF 2.809, LS 53W): “Nosotros
+mismos persistimos cuando nuestra alma se ha vuelto separada del cuerpo”
+(διαμένομεν ἡμεῖς ψυχαὶ γενόμενοι τοῦ σώματος χωρισθέντες). Cf. Ps. Platón, Alcibiades
+(129D-131B) y Aristóteles, NE 1168b31-1169a3 y 1177b26-1178a22.
+© Ediciones Universidad de Salamanca Azafea. Rev. filos. 17, 2015, pp. 33-50ricardo salles
+48 la doctrina de los cuatro elementos de crisipo: su lugar en la teoría...
+T6: DL 7.141 (SVF 2.589, LS 46J, BS 18.9)
+Οὗ γὰρ τὰ μέρη φθαρτά ἐστι, καὶ τὸ ὅλον· τὰ δὲ μέρη τοῦ κόσμου φθαρτά (εἰς
+ἄλληλα γὰρ μεταβάλλει)· φθαρτὸς ἄρα ὁ κόσμος.
+Y aquello cuyas partes son destructibles, también lo es en su totalidad; pero
+las partes del cosmos son destructibles puesto que se transforman las unas en
+las otras; por lo tanto, el cosmos es destructible.
+Las ‘partes’ del cosmos a las que se refiere este argumento son, sin duda,
+los cuatro elementos. En efecto, según T6, las ‘partes’ del cosmos se transfor-
+man las unas en las otras, pero es improbable que los autores del argumento
+sostuvieran que hay cuerpos no-elementales que se transforman los unos en
+los otros. La idea central del argumento sería entonces que el aire, el agua y la
+tierra se destruyen al transformarse en fuego y, por consiguiente, que al me-
+nos estas tres partes importantes del cosmos se destruyen en la conflagración.
+Es discutible si, como prentenden los autores del argumento, la destrucción
+de estas tres partes del cosmos implica la destrucción misma del cosmos. Pero
+en todo caso, el argumento parte de supuestos diametralmente opuestos a la
+teoría de los elementos de Crisipo. En efecto, la idea de que los elementos se
+destruyen cuando se transforman los unos en los otros implica que el fuego
+deja de ser fuego al transformarse en aire, agua o tierra. Pero si esto es así,
+se sigue que estos tres elementos no pueden consistir en fuego comprimido
+como sostiene Crisipo.
+¿Qué pudo haber llevado a los autores de este argumento a apartarse de
+Crisipo de forma tan radical? Una posibilidad es que quisieron evitar un
+problema obvio que parece amenazar a la teoría de Crisipo. Si el aire, el agua
+o la tierra son fuego comprimido, como sostiene Crisipo, se sigue que una
+porción de aire tiene que poseer, por una parte, las cualidades que la identi-
+fican como una porción de aire y, por otra, las cualidades que lo identifican
+como una porción de fuego. Sin embargo, según la física estoica, la cualidad
+característica del aire es el poder de enfriar y la cualidad característica del
+fuego es el poder de calentar. Por lo tanto, toda porción de aire tendría que
+tener, al mismo tiempo, el poder de enfriar y el poder de calentar. Es discu-
+tible si la teoría de Crisipo efectivamente a esta conclusión absurda. Pero
+si conduce ella, esto constituye por sí mismo una buena razón que podría
+tener un estoico para rechazar la teoría de Crisipo. No hay pruebas de que
+los autores estoicos de este argumento hayan rechazado la teoría de Crisipo
+por esta razón que acabo de mencionar. Pero es una posibilidad que hay
+tomar en cuenta.
+© Ediciones Universidad de Salamanca Azafea. Rev. filos. 17, 2015, pp. 33-50ricardo salles
+la doctrina de los cuatro elementos de crisipo: su lugar en la teoría... 49
+El primer argumento, en cambio, obedece a un problema distinto y fi-
+losóficamente más amplio. El problema es el de si la identidad de un cuer-
+po depende de aquello de lo cual está compuesto o, más bien, del modo en
+que se ordena aquello de lo cual está compuesto. Este problema, según lo
+apuntamos, está por detrás de la polémica en torno a los tres sentidos de
+‘cosmos’. Quienes favorecen el segundo sentido y sostienen que la identidad
+del cosmos radica en su ordenamiento, se oponen a Crisipo. Pues aún si se le
+concede que todo cuerpo está compuesto de fuego, si la identidad de un cuer-
+po depende principalmente del modo en que está ordenado ese fuego y este
+ordenamiento incluye, cuando menos, el grado de compresión bajo el cual el
+fuego está presente en ese cuerpo, la conflagración destruye periódicamente
+el cosmos, pues cuando ocurre la conflagración el fuego pierde el grado de
+compresión bajo el cual está presente en todos los cuerpos y en le cosmos en
+su conjunto.
+Me parece que los dos problemas que acabo de mencionar son muy reales
+y, por lo tanto, que los dos argumentos arriba descritos representan podero-
+sas objeciones contra Crisipo13.
+Obras citadas
+Bréhier 1951: E. Bréhier, Chrysippe et l’ Ancien Stoïcisme. Paris, Presses Univer-
+sitaires de France, 1951 (2.a ed.).
+Boeri-Salles 2014: Boeri, M. D. / Salles, R., Los Filósofos Estoicos. Ontología,
+Lógica, Física y Ética, Sankt Augustin, Academia Verlag, 2014.
+Cooper 2009: Cooper, J., “Chrysippus on physical elements” en: Salles, R. (ed.),
+God and Cosmos in Stoicism, Oxford, Oxford University Press 2009, pp. 93-117.
+Diels 1899: Diels, H., Elementum: eine Vorarbeit zum griechischen und lateinis-
+chen Thesaurus, Leipzig, Teubner 1899.
+13. Una versión anterior de este trabajo fue presentada en el IV Congreso de
+la Asociación Latinoamericana de Filosofía Antigua en Santa Fé, Argentina, el 10
+de spetiembre de 2014. Estoy agradecido con los miembros de la Mesa Directiva de
+ALFA, y especialmente con el Dr. Fabián Mié, por su amable invitación. Estoy también
+agradecido con Marcelo Boeri, María Teresa Padilla y María Isabel Santa Cruz por sus
+comentarios a esa versión. Este trabajo forma parte de una investigación más amplia
+que se lleva a cabo con el apoyo de los proyectos PAPIIT IN400914, CONACYT
+CB 2013-221268 y con el apoyo del Programa de Apoyo para la Superación del
+Personal Académico (PASPA) de la Universidad Nacional Autónoma de México
+recibido durante el mes de julio de 2014 para realizar una estancia de investigación en
+el Institute for Advanced Study en Princeton, EE.UU.
+© Ediciones Universidad de Salamanca Azafea. Rev. filos. 17, 2015, pp. 33-50ricardo salles
+50 la doctrina de los cuatro elementos de crisipo: su lugar en la teoría...
+Frede 2005: Frede, M., “Sur la théologie stoïcienne” en : Romeyer-Dherbey G. /
+Gourinat, J. B. (eds.), Les Stoïciens, Paris, Vrin 2005, pp. 213-232.
+Furley 1999: Furley, D., “Cosmology” en: Algra, K. et al. (eds.), The Cambridge
+History of Hellenistic Philosophy, Cambridge, Cambridge University Press 1999,
+pp. 412-451.
+Gould 1970: Gould, J., The Philosophy of Chrysippus, Leiden, Brill 1970.
+Gourinat 2009: Gourinat, J. B., “The Stoics on Matter and Primer Matter: ‘Cor-
+porealism’ and the Imprint of Plato’s Timaeus” en Salles, R. (ed.), God and
+Cosmos in Stoicism, Oxford, Oxford University Press 2009, pp. 46-70.
+Graham 1997: Graham, D., “Heraclitus’ criticism of Ionian Philosophy”, Oxford
+Studies in Ancient Philosophy XV (1997), pp. 2-50.
+Graham 2003: Graham, D., “A testimony of Anaximenes in Plato”, Classical
+Quarterly 53.2 (2003), pp. 327-337.
+Hahm 1977: Hahm, D. M The Origins of Stoic Cosmology, Columbus, Ohio Uni-
+versity Press 1977.
+Johansen 2004: Johansen T. H., Plato’s Natural Philosophy. A Study of the Ti-
+maeus-Critias, Cambridge, Cambridge University Press 2004.
+Lapidge 1973: Lapidge, M., “Archai and stoicheia: a problem in Stoic cosmology”,
+Phronesis 18 (1973), pp. 240-278.
+Long-Sedley 1987: Long, A. A. / Sedley D. N., The Hellenistic Philosophers,
+Cambridge, Cambridge University Press 1987.
+Salles 2005: Salles, R., “Ekpúrosis and the Goodness of God in Cleanthes”, Phro-
+nesis 50 (2005), pp. 56-78.
+Salles 2009: Salles, R., “Chrysippus on conflagration and the indestructibility of
+the cosmos” en: Salles, R. (ed.), God and Cosmos in Stoicism, Oxford, Oxford
+University Press, 2009, pp. 118-134.
+Zeller-Mondolfo 1961: Zeller, E / Mondolfo, R., La filosofia dei greci nel suo
+sviluppo storico, Vol. 4, Firenze, La Nuova Italia, 1961.
+© Ediciones Universidad de Salamanca Azafea. Rev. filos. 17, 2015, pp. 33-50Reproduced with permission of the copyright owner. Further reproduction prohibited without
+permission.
